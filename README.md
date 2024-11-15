@@ -2,6 +2,10 @@
 
 # Data
 
+Source: https://www.kaggle.com/datasets/prathamsaraf1389/top-100-reddit-posts-daily-update/data
+
+Time range of data used: 2023-07-15 to 2024-11-13
+
 Ranking algorithm: https://github.com/reddit-archive/reddit/blob/master/r2/r2/lib/db/_sorts.pyx
 
 top 10 posts = top 10 posts ranked by descending score
