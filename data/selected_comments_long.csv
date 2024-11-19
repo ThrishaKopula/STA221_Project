@@ -1,4 +1,4 @@
-post_id,comment_content,comment_content,comment_content,length_category,sentiment
+post_id,comment_content,comment_score,comment_created_utc,length_category,sentiment
 1gilleg,Reddit is like collectively climaxing.,4,2024-11-03 18:30:42,short,1
 1g8neev,Growing anti illegal immigrant policy.,1,2024-10-21 17:28:18,short,0
 1gfyg6n,Fred Weasley is exactly my thought too.,10,2024-10-31 00:39:50,short,0
