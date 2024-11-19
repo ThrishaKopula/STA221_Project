@@ -1,216 +1,216 @@
 post_id,comment_id,comment_content,comment_score,comment_created_utc,length_category,sentiment,RoBERTa_sentiment
-1gilleg,lv7vg3z,Reddit is like collectively climaxing.,4,2024-11-03 18:30:42,short,1.0,0.8369809985160830
-1g8neev,lt1c2f6,Growing anti illegal immigrant policy.,1,2024-10-21 17:28:18,short,0.0,0.705331563949585
-1gfyg6n,lumbb5b,Fred Weasley is exactly my thought too.,10,2024-10-31 00:39:50,short,0.0,0.6299764513969420
-1573cx1,jt4kh7n,I shouldn't love this as much as I do lol.,2,2023-07-23 14:44:13,short,1.0,0.7441371083259580
-151kc60,jsa6kfd,Oh fuck that’s worse then what I was thinking.,1,2023-07-17 04:49:32,short,-1.0,0.9457495212554930
-153vcr7,jsmbgfv,The malarkey stops here!,1,2023-07-19 17:57:30,short,-1.0,0.6388152241706850
-1gnioxm,lwaznvx,Women who run with the wolves,19,2024-11-09 20:41:42,short,1.0,0.713185727596283
-1gmqscj,lwpj2vr,Why?,5,2024-11-08 21:53:28,short,0.0,0.6985008716583250
-1gg67f2,lungjmt,"someone just can't take their win and go, huh?",9,2024-10-31 05:04:07,short,-1.0,0.8191748261451720
-1gfmun7,lukbnre,Give Sadler some credit!,7,2024-10-30 18:29:10,short,0.0,0.4814502894878390
-155cre9,lwtfjbd,[removed],0,2023-07-21 11:57:21,short,,0.8817014098167420
-1gbc57n,ltls9hg,He’s traitor,1,2024-10-25 00:20:36,short,-1.0,0.8758366703987120
-1gdg6im,lu1ixtu,Now that is a coffin corner.,18,2024-10-27 17:50:10,short,-1.0,0.5987739562988280
-1gpkyjv,lwscoi2,Better get to reapin',1,2024-11-12 18:28:28,short,0.0,0.6391476988792420
-1gnk72n,lwb85tv,New poster. Same crap movie.,25,2024-11-09 21:28:19,short,-1.0,0.8973169326782230
-1533gxc,jshg9pj,Because the first one is way better.,2,2023-07-18 18:18:42,short,1.0,0.7563859224319460
-151mupk,jsaf1gc,Up but not out,23,2023-07-17 06:27:46,short,0.0,0.7917430400848390
-15bfhqi,jtqe19y,coasterghost is a gentlemen guys.,13,2023-07-27 23:21:20,short,1.0,0.517121434211731
-1gjgatw,lvdg5g4,He's gonna be the best referee one day.,8,2024-11-04 16:55:11,short,1.0,0.9710221886634830
-1gbrfmp,lto0sfx,Okay but why go for millions of digits,-10,2024-10-25 11:30:38,short,0.0,0.6118331551551820
-1510lzz,js6l11g,Gaslighting,3,2023-07-16 12:25:31,short,0.0,0.4581346213817600
-1gb2xjt,ltiewur,My aging pet cat,33,2024-10-24 13:44:05,short,0.0,0.7830390334129330
-1ghynu3,lv1ygi2,Hey OP wanna talk?,4,2024-11-02 18:17:16,short,0.0,0.8365407586097720
-1gjdsqy,lwtfjbd,[removed],7,2024-11-04 15:29:10,short,,0.8817014098167420
-1gnk72n,lwck1oi,Bro why does his fist create sparks? 😭,2,2024-11-10 02:10:08,short,0.0,0.7096688151359560
-153uq7t,lwcp66v,Yep!,1,2023-07-19 20:57:18,short,0.0,0.7241697907447820
-1gmj4aa,lw3fqi3,it's gotta suck knowing your dad is a pos,14,2024-11-08 15:49:27,short,-1.0,0.9273116588592530
+1gilleg,lv7vg3z,Reddit is like collectively climaxing.,4,2024-11-03 18:30:42,short,1.0,-1
+1g8neev,lt1c2f6,Growing anti illegal immigrant policy.,1,2024-10-21 17:28:18,short,0.0,-1
+1gfyg6n,lumbb5b,Fred Weasley is exactly my thought too.,10,2024-10-31 00:39:50,short,0.0,0
+1573cx1,jt4kh7n,I shouldn't love this as much as I do lol.,2,2023-07-23 14:44:13,short,1.0,-1
+151kc60,jsa6kfd,Oh fuck that’s worse then what I was thinking.,1,2023-07-17 04:49:32,short,-1.0,-1
+153vcr7,jsmbgfv,The malarkey stops here!,1,2023-07-19 17:57:30,short,-1.0,-1
+1gnioxm,lwaznvx,Women who run with the wolves,19,2024-11-09 20:41:42,short,1.0,-1
+1gmqscj,lwpj2vr,Why?,5,2024-11-08 21:53:28,short,0.0,0
+1gg67f2,lungjmt,"someone just can't take their win and go, huh?",9,2024-10-31 05:04:07,short,-1.0,-1
+1gfmun7,lukbnre,Give Sadler some credit!,7,2024-10-30 18:29:10,short,0.0,0
+155cre9,lwtfjbd,[removed],0,2023-07-21 11:57:21,short,,0
+1gbc57n,ltls9hg,He’s traitor,1,2024-10-25 00:20:36,short,-1.0,-1
+1gdg6im,lu1ixtu,Now that is a coffin corner.,18,2024-10-27 17:50:10,short,-1.0,-1
+1gpkyjv,lwscoi2,Better get to reapin',1,2024-11-12 18:28:28,short,0.0,1
+1gnk72n,lwb85tv,New poster. Same crap movie.,25,2024-11-09 21:28:19,short,-1.0,-1
+1533gxc,jshg9pj,Because the first one is way better.,2,2023-07-18 18:18:42,short,1.0,1
+151mupk,jsaf1gc,Up but not out,23,2023-07-17 06:27:46,short,0.0,0
+15bfhqi,jtqe19y,coasterghost is a gentlemen guys.,13,2023-07-27 23:21:20,short,1.0,1
+1gjgatw,lvdg5g4,He's gonna be the best referee one day.,8,2024-11-04 16:55:11,short,1.0,1
+1gbrfmp,lto0sfx,Okay but why go for millions of digits,-10,2024-10-25 11:30:38,short,0.0,0
+1510lzz,js6l11g,Gaslighting,3,2023-07-16 12:25:31,short,0.0,-1
+1gb2xjt,ltiewur,My aging pet cat,33,2024-10-24 13:44:05,short,0.0,0
+1ghynu3,lv1ygi2,Hey OP wanna talk?,4,2024-11-02 18:17:16,short,0.0,0
+1gjdsqy,lwtfjbd,[removed],7,2024-11-04 15:29:10,short,,0
+1gnk72n,lwck1oi,Bro why does his fist create sparks? 😭,2,2024-11-10 02:10:08,short,0.0,-1
+153uq7t,lwcp66v,Yep!,1,2023-07-19 20:57:18,short,0.0,1
+1gmj4aa,lw3fqi3,it's gotta suck knowing your dad is a pos,14,2024-11-08 15:49:27,short,-1.0,-1
 1goon6s,lwp3gu7,"Spot on.
-It’s 2008 déjà vu",1,2024-11-12 03:49:40,short,0.0,0.4515572488307950
-159u7b1,jti5oo2,Face/Off,1,2023-07-26 10:15:28,short,0.0,0.8324863910675050
-15799eb,jt4tutz,Death Sentence with Kevin Bacon.,1,2023-07-23 15:50:32,short,-1.0,0.8539249897003170
-15dzpl1,ju5ef9s,Long distance 😞,9,2023-07-31 01:53:14,short,0.0,0.7535402774810790
-1ghy2dv,lv0xnsg,4 4283 968 (pager speak),4,2024-11-02 14:59:22,short,0.0,0.8523327112197880
-1gmsr3i,lw7d3y5,"Of course, why wouldn’t she?",0,2024-11-09 04:49:24,short,0.0,0.7476525902748110
-1gfqgqc,luk7j5y,"Yes, because conservatives are garbage.",27,2024-10-30 18:08:58,short,-1.0,0.8905172944068910
-1gey6ir,luf9z53,"Applesauce, bitch.",30,2024-10-29 17:45:45,short,-1.0,0.7597129940986630
-150yn1u,js71umk,Thanks for the sources!,2,2023-07-16 14:47:45,short,1.0,0.9443984627723690
-1gcqpbk,ltwu84e,This is like the Crow remake all over again,0,2024-10-26 21:15:12,short,0.0,0.862848162651062
-1ggjkso,lury5sj,this looks so ai,-1,2024-10-31 23:19:15,short,0.0,0.4671424627304080
-1geubi8,lueth38,Just make sure the damn story and writing are good,1,2024-10-29 20:44:25,short,-1.0,0.3861528933048250
-1gltxce,lvxdbyf,Getting incredibly lucky in stocks and options.,1,2024-11-07 17:13:28,short,1.0,0.9788267612457280
-15982m3,jteoclb,Without a single casualty in the US forces,124,2023-07-25 17:04:55,short,1.0,0.6296879649162290
-1gq1rw6,lwuxcd5,A big box from Wayfair.,2,2024-11-13 03:01:43,short,0.0,0.6848506331443790
-1gib84r,lv58ohm,Grandpa Buff gettin’ some action,1,2024-11-03 07:15:59,short,1.0,0.574806272983551
-153qptm,jsla8ee,Yes. But it'll be worth playing nonetheless.,1,2023-07-19 14:02:22,short,1.0,0.8151546120643620
-155ag1m,jstczsf,NolanNation we are so back,50,2023-07-21 02:23:21,short,0.0,0.6986855268478390
-1glnc8j,lvwfied,Is it a sponge though?,29,2024-11-07 14:24:33,short,0.0,0.8585770726203920
-1gfiyeo,lwtfjbd,[removed],10,2024-10-30 12:01:23,short,,0.8817014098167420
-15dzjcw,ju66ucc,"So I’m ahead of the curve on something, at least.",0,2023-07-31 06:35:19,short,1.0,0.7376277446746830
-151j5b9,js9p39h,Money bitxh,1,2023-07-17 02:08:42,short,-1.0,0.5054593086242680
-1gh3tqc,luv0pn0,His meltdown has already started.,3,2024-11-01 14:23:14,short,-1.0,0.7791975736618040
-1g82lv4,lsvgdcm,Saunas. Nekkid!,531,2024-10-20 17:42:03,short,1.0,0.6647467017173770
-1g82lv4,lsvgdcm,Saunas. Nekkid!,531,2024-10-20 17:42:03,short,1.0,0.6647467017173770
-1g81wb3,lsxb0vq,They're just a Hetalia cosplayer.,6,2024-10-20 23:37:13,short,0.0,0.7159055471420290
-1g81wb3,lsxb0vq,They're just a Hetalia cosplayer.,6,2024-10-20 23:37:13,short,0.0,0.7159055471420290
-1gi4aoa,lwtfjbd,[removed],10,2024-11-02 21:33:13,short,,0.8817014098167420
-1gkld32,lvm9uy3,E E EE E X-MEN!,6,2024-11-06 00:29:52,short,0.0,0.6240276098251340
-1gnq33q,lwd1ayj,Male fragility,1,2024-11-10 04:04:35,short,0.0,0.6145799160003660
-15bfhqi,jtq7jeg,More evidence of obstruction,11,2023-07-27 22:36:13,short,-1.0,0.6585395336151120
-15a4qn5,jtklkbh,Lay down some newspapers,2,2023-07-26 20:28:44,short,0.0,0.8722431063652040
-1ga6y4v,ltdvpkp,Elon Musk is an evil James Bond villain.,1,2024-10-23 18:43:08,short,-1.0,0.8602638840675350
-1gle31s,lvtiiea,Death Becomes Her.,72,2024-11-07 01:03:55,short,-1.0,0.7760526537895200
-1gklum0,lvme59g,Silver lining on the first clouds of the evening.,1,2024-11-06 00:54:24,short,1.0,0.9440005421638490
-15bjzmj,jtrbq5g,Sticky melted marshmellow,2,2023-07-28 03:43:18,short,0.0,0.4793723523616790
-1gcks9a,ltvug7y,Total Annihilation,2,2024-10-26 17:59:58,short,0.0,0.7094098329544070
-152xnxm,lwq9j41,Very cool,1,2023-07-18 22:02:54,short,1.0,0.9348738193511960
-1go3zps,lwga3gq,"“Reload your god damn gun, Booker!”",38,2024-11-10 18:45:19,short,-1.0,0.8808778524398800
-151mms7,js9inj1,Yaaaassss,0,2023-07-17 01:15:54,short,1.0,0.8329477310180660
-1g820jv,lsyz5i6,Shades of ‘Fanboys’ (2009),1,2024-10-21 07:08:24,short,0.0,0.8787384033203130
-1g820jv,lsyz5i6,Shades of ‘Fanboys’ (2009),1,2024-10-21 07:08:24,short,0.0,0.8787384033203130
-1gi9kl1,lv43dqf,"That’s not aspartame, it’s sugar alcohols",1,2024-11-03 01:38:31,short,0.0,0.7640866041183470
-159mfik,jti89t7,Strength before Weakness,5,2023-07-26 10:46:05,short,0.0,0.5330411791801450
-1gghuyu,lutfsaz,Where's my Lada?,1,2024-11-01 05:50:01,short,0.0,0.4869251251220700
-1gcae8l,ltsazar,Damn Canadians,9,2024-10-26 02:08:08,short,-1.0,0.8484694361686710
-1gdm9sa,lu34s52,Waste management workers,2,2024-10-27 22:44:15,short,0.0,0.6041171550750730
-1glv5nx,lvxvkfn,It's never been more joever,1,2024-11-07 18:38:13,short,0.0,0.522770345211029
-1gfm1r5,luiml4y,🎶*Dr Zaius Dr Zaius*🎶,574,2024-10-30 13:20:07,short,0.0,0.8519861698150640
-1gd9wcq,lwtfjbd,[removed],1885,2024-10-27 12:55:54,short,,0.8817014098167420
-1519ldp,js7o3sx,What a horrible day to have eyes,161,2023-07-16 17:19:50,short,-1.0,0.929667592048645
-1g90i73,lt3jroa,Stop talking with Republicans who don't listen.,1,2024-10-22 00:39:36,short,-1.0,0.8705093264579770
-1gcsrmz,ltxos1m,Dropping the F bomb in normal conversations,1,2024-10-27 00:22:45,short,0.0,0.5569406151771550
-1ged3f5,lu92e6z,"Nearing on 40k killed Russians last week, so yes.",24,2024-10-28 22:12:23,short,-1.0,0.5699094533920290
-1ged3f5,lu92e6z,"Nearing on 40k killed Russians last week, so yes.",24,2024-10-28 22:12:23,short,-1.0,0.5699094533920290
-1gg67f2,lunhybk,I should’ve taken the warning holy shit,59,2024-10-31 05:17:12,short,-1.0,0.8399513363838200
-1501ibb,lwm74tt,Yikes,61,2023-07-15 07:27:39,short,-1.0,0.4747066795825960
-153uq7t,jslqvi0,so 17.179 EXABYTES of ram. damn,1,2023-07-19 15:51:11,short,0.0,0.7666403651237490
-1gnioxm,lwc07a7,What’s the summary for both?,6,2024-11-10 00:09:44,short,0.0,0.9256382584571840
-1gc3r4p,lts1cg4,What dispute do you think Musk was negotiating?,2,2024-10-26 01:06:08,short,0.0,0.8707626461982730
-1gmnnwe,lw4hx5j,"""What retirement plan?""",1,2024-11-08 18:54:41,short,0.0,0.8988602757453920
-15cmdjd,jtzazg0,I hope he got turtles.,2,2023-07-29 19:23:28,short,0.0,0.5885666012763980
-156i9wl,jt0py4z,Train ride and a shower.,4,2023-07-22 17:18:55,short,0.0,0.7083358764648440
-155r7bv,jswbpo9,But …. Why would we | they do that.,1,2023-07-21 18:13:48,short,0.0,0.6083081960678100
-152gabx,jsg1vjo,It’s an accurate analogy.,3,2023-07-18 12:29:01,short,0.0,0.6086224317550660
-1g87duh,lswxxoi,The Others,2,2024-10-20 22:18:18,short,0.0,0.8270504474639890
-1g87duh,lswxxoi,The Others,2,2024-10-20 22:18:18,short,0.0,0.8270504474639890
-154ig1d,jspl0in,On an article that is paywalled…,9,2023-07-20 10:17:33,short,0.0,0.6629096269607540
-1g8ehxr,lsy4lk6,Always been weed,3,2024-10-21 02:42:13,short,0.0,0.6657251715660100
-1g8ehxr,lsy4lk6,Always been weed,3,2024-10-21 02:42:13,short,0.0,0.6657251715660100
-15cw9oi,jtzhd3n,Get that guy some sugar water.,1,2023-07-29 20:06:39,short,0.0,0.8036633729934690
-1gnn992,lwc1ihy,Donald will pay him back with tax payer money,-9,2024-11-10 00:17:31,short,0.0,0.7283562421798710
-15fj46g,jue9ove,until the feminists lock him back in his cage..,1,2023-08-01 21:07:24,short,-1.0,0.6630504131317140
-153zp42,jsmpza0,That's brilliant! Where can I buy a print?,3,2023-07-19 19:29:56,short,1.0,0.9739478826522830
-1g9jine,lwt0gp6,Yes,28,2024-10-22 17:22:24,short,0.0,0.455340564250946
-150d0l1,lvjf9c1,"Sir, this is a Wendy's.",25,2023-07-15 16:57:14,short,0.0,0.7100878357887270
-1569wcp,jt1q5uk,Click bait inflammatory out of context title.,1,2023-07-22 21:44:05,short,-1.0,0.8668476939201360
-1ggq051,luru6xe,Bad times to be UN forces,142,2024-10-31 22:54:02,short,-1.0,0.8901857733726500
-157f1at,jt4tbzj,Expect for Rick and Morty.,14,2023-07-23 15:46:51,short,0.0,0.5836182236671450
-1gp43t1,lwotzy3,"Trump has no integrity, if he doesn’t sign a code of ethics, he shouldn’t get the job.",1,2024-11-12 02:48:59,medium,-1.0,0.926328718662262
-15fdupm,jucol2g,It would be huge if they were actually able to pull it off.,1,2023-08-01 15:12:34,medium,1.0,0.8731102347373960
-1gbucwc,ltqozia,Elon Musk should be deported from the USA for being a threat to national security.,1,2024-10-25 20:17:43,medium,-1.0,0.8931571841239930
-15081bl,js2rjz2,"How? I mean it's a great demo, but what exactly did it change?",9,2023-07-15 15:37:32,medium,1.0,0.5153173208236690
+It’s 2008 déjà vu",1,2024-11-12 03:49:40,short,0.0,0
+159u7b1,jti5oo2,Face/Off,1,2023-07-26 10:15:28,short,0.0,0
+15799eb,jt4tutz,Death Sentence with Kevin Bacon.,1,2023-07-23 15:50:32,short,-1.0,0
+15dzpl1,ju5ef9s,Long distance 😞,9,2023-07-31 01:53:14,short,0.0,-1
+1ghy2dv,lv0xnsg,4 4283 968 (pager speak),4,2024-11-02 14:59:22,short,0.0,0
+1gmsr3i,lw7d3y5,"Of course, why wouldn’t she?",0,2024-11-09 04:49:24,short,0.0,0
+1gfqgqc,luk7j5y,"Yes, because conservatives are garbage.",27,2024-10-30 18:08:58,short,-1.0,-1
+1gey6ir,luf9z53,"Applesauce, bitch.",30,2024-10-29 17:45:45,short,-1.0,-1
+150yn1u,js71umk,Thanks for the sources!,2,2023-07-16 14:47:45,short,1.0,1
+1gcqpbk,ltwu84e,This is like the Crow remake all over again,0,2024-10-26 21:15:12,short,0.0,-1
+1ggjkso,lury5sj,this looks so ai,-1,2024-10-31 23:19:15,short,0.0,0
+1geubi8,lueth38,Just make sure the damn story and writing are good,1,2024-10-29 20:44:25,short,-1.0,-1
+1gltxce,lvxdbyf,Getting incredibly lucky in stocks and options.,1,2024-11-07 17:13:28,short,1.0,1
+15982m3,jteoclb,Without a single casualty in the US forces,124,2023-07-25 17:04:55,short,1.0,0
+1gq1rw6,lwuxcd5,A big box from Wayfair.,2,2024-11-13 03:01:43,short,0.0,0
+1gib84r,lv58ohm,Grandpa Buff gettin’ some action,1,2024-11-03 07:15:59,short,1.0,0
+153qptm,jsla8ee,Yes. But it'll be worth playing nonetheless.,1,2023-07-19 14:02:22,short,1.0,1
+155ag1m,jstczsf,NolanNation we are so back,50,2023-07-21 02:23:21,short,0.0,1
+1glnc8j,lvwfied,Is it a sponge though?,29,2024-11-07 14:24:33,short,0.0,0
+1gfiyeo,lwtfjbd,[removed],10,2024-10-30 12:01:23,short,,0
+15dzjcw,ju66ucc,"So I’m ahead of the curve on something, at least.",0,2023-07-31 06:35:19,short,1.0,1
+151j5b9,js9p39h,Money bitxh,1,2023-07-17 02:08:42,short,-1.0,0
+1gh3tqc,luv0pn0,His meltdown has already started.,3,2024-11-01 14:23:14,short,-1.0,-1
+1g82lv4,lsvgdcm,Saunas. Nekkid!,531,2024-10-20 17:42:03,short,1.0,0
+1g82lv4,lsvgdcm,Saunas. Nekkid!,531,2024-10-20 17:42:03,short,1.0,0
+1g81wb3,lsxb0vq,They're just a Hetalia cosplayer.,6,2024-10-20 23:37:13,short,0.0,0
+1g81wb3,lsxb0vq,They're just a Hetalia cosplayer.,6,2024-10-20 23:37:13,short,0.0,0
+1gi4aoa,lwtfjbd,[removed],10,2024-11-02 21:33:13,short,,0
+1gkld32,lvm9uy3,E E EE E X-MEN!,6,2024-11-06 00:29:52,short,0.0,1
+1gnq33q,lwd1ayj,Male fragility,1,2024-11-10 04:04:35,short,0.0,-1
+15bfhqi,jtq7jeg,More evidence of obstruction,11,2023-07-27 22:36:13,short,-1.0,-1
+15a4qn5,jtklkbh,Lay down some newspapers,2,2023-07-26 20:28:44,short,0.0,0
+1ga6y4v,ltdvpkp,Elon Musk is an evil James Bond villain.,1,2024-10-23 18:43:08,short,-1.0,-1
+1gle31s,lvtiiea,Death Becomes Her.,72,2024-11-07 01:03:55,short,-1.0,-1
+1gklum0,lvme59g,Silver lining on the first clouds of the evening.,1,2024-11-06 00:54:24,short,1.0,1
+15bjzmj,jtrbq5g,Sticky melted marshmellow,2,2023-07-28 03:43:18,short,0.0,0
+1gcks9a,ltvug7y,Total Annihilation,2,2024-10-26 17:59:58,short,0.0,-1
+152xnxm,lwq9j41,Very cool,1,2023-07-18 22:02:54,short,1.0,1
+1go3zps,lwga3gq,"“Reload your god damn gun, Booker!”",38,2024-11-10 18:45:19,short,-1.0,-1
+151mms7,js9inj1,Yaaaassss,0,2023-07-17 01:15:54,short,1.0,1
+1g820jv,lsyz5i6,Shades of ‘Fanboys’ (2009),1,2024-10-21 07:08:24,short,0.0,0
+1g820jv,lsyz5i6,Shades of ‘Fanboys’ (2009),1,2024-10-21 07:08:24,short,0.0,0
+1gi9kl1,lv43dqf,"That’s not aspartame, it’s sugar alcohols",1,2024-11-03 01:38:31,short,0.0,-1
+159mfik,jti89t7,Strength before Weakness,5,2023-07-26 10:46:05,short,0.0,0
+1gghuyu,lutfsaz,Where's my Lada?,1,2024-11-01 05:50:01,short,0.0,0
+1gcae8l,ltsazar,Damn Canadians,9,2024-10-26 02:08:08,short,-1.0,-1
+1gdm9sa,lu34s52,Waste management workers,2,2024-10-27 22:44:15,short,0.0,-1
+1glv5nx,lvxvkfn,It's never been more joever,1,2024-11-07 18:38:13,short,0.0,1
+1gfm1r5,luiml4y,🎶*Dr Zaius Dr Zaius*🎶,574,2024-10-30 13:20:07,short,0.0,0
+1gd9wcq,lwtfjbd,[removed],1885,2024-10-27 12:55:54,short,,0
+1519ldp,js7o3sx,What a horrible day to have eyes,161,2023-07-16 17:19:50,short,-1.0,-1
+1g90i73,lt3jroa,Stop talking with Republicans who don't listen.,1,2024-10-22 00:39:36,short,-1.0,-1
+1gcsrmz,ltxos1m,Dropping the F bomb in normal conversations,1,2024-10-27 00:22:45,short,0.0,-1
+1ged3f5,lu92e6z,"Nearing on 40k killed Russians last week, so yes.",24,2024-10-28 22:12:23,short,-1.0,0
+1ged3f5,lu92e6z,"Nearing on 40k killed Russians last week, so yes.",24,2024-10-28 22:12:23,short,-1.0,0
+1gg67f2,lunhybk,I should’ve taken the warning holy shit,59,2024-10-31 05:17:12,short,-1.0,-1
+1501ibb,lwm74tt,Yikes,61,2023-07-15 07:27:39,short,-1.0,0
+153uq7t,jslqvi0,so 17.179 EXABYTES of ram. damn,1,2023-07-19 15:51:11,short,0.0,-1
+1gnioxm,lwc07a7,What’s the summary for both?,6,2024-11-10 00:09:44,short,0.0,0
+1gc3r4p,lts1cg4,What dispute do you think Musk was negotiating?,2,2024-10-26 01:06:08,short,0.0,0
+1gmnnwe,lw4hx5j,"""What retirement plan?""",1,2024-11-08 18:54:41,short,0.0,0
+15cmdjd,jtzazg0,I hope he got turtles.,2,2023-07-29 19:23:28,short,0.0,-1
+156i9wl,jt0py4z,Train ride and a shower.,4,2023-07-22 17:18:55,short,0.0,0
+155r7bv,jswbpo9,But …. Why would we | they do that.,1,2023-07-21 18:13:48,short,0.0,-1
+152gabx,jsg1vjo,It’s an accurate analogy.,3,2023-07-18 12:29:01,short,0.0,1
+1g87duh,lswxxoi,The Others,2,2024-10-20 22:18:18,short,0.0,0
+1g87duh,lswxxoi,The Others,2,2024-10-20 22:18:18,short,0.0,0
+154ig1d,jspl0in,On an article that is paywalled…,9,2023-07-20 10:17:33,short,0.0,0
+1g8ehxr,lsy4lk6,Always been weed,3,2024-10-21 02:42:13,short,0.0,0
+1g8ehxr,lsy4lk6,Always been weed,3,2024-10-21 02:42:13,short,0.0,0
+15cw9oi,jtzhd3n,Get that guy some sugar water.,1,2023-07-29 20:06:39,short,0.0,-1
+1gnn992,lwc1ihy,Donald will pay him back with tax payer money,-9,2024-11-10 00:17:31,short,0.0,0
+15fj46g,jue9ove,until the feminists lock him back in his cage..,1,2023-08-01 21:07:24,short,-1.0,-1
+153zp42,jsmpza0,That's brilliant! Where can I buy a print?,3,2023-07-19 19:29:56,short,1.0,1
+1g9jine,lwt0gp6,Yes,28,2024-10-22 17:22:24,short,0.0,1
+150d0l1,lvjf9c1,"Sir, this is a Wendy's.",25,2023-07-15 16:57:14,short,0.0,0
+1569wcp,jt1q5uk,Click bait inflammatory out of context title.,1,2023-07-22 21:44:05,short,-1.0,-1
+1ggq051,luru6xe,Bad times to be UN forces,142,2024-10-31 22:54:02,short,-1.0,-1
+157f1at,jt4tbzj,Expect for Rick and Morty.,14,2023-07-23 15:46:51,short,0.0,1
+1gp43t1,lwotzy3,"Trump has no integrity, if he doesn’t sign a code of ethics, he shouldn’t get the job.",1,2024-11-12 02:48:59,medium,-1.0,-1
+15fdupm,jucol2g,It would be huge if they were actually able to pull it off.,1,2023-08-01 15:12:34,medium,1.0,1
+1gbucwc,ltqozia,Elon Musk should be deported from the USA for being a threat to national security.,1,2024-10-25 20:17:43,medium,-1.0,-1
+15081bl,js2rjz2,"How? I mean it's a great demo, but what exactly did it change?",9,2023-07-15 15:37:32,medium,1.0,0
 1ggenw7,luqkcrs,">  It's probably $1000 watch for $100.000.
 
-Which is fair, he is almost losing money with this pitch.",2,2024-10-31 18:37:21,medium,-1.0,0.5245685577392580
-1gdbibv,lu3uhpt,End the two tiered legal system. Arrest this dipshit.,1,2024-10-28 01:12:41,medium,-1.0,0.9360378980636600
-15aquxb,jtnvo9o,Correction: Being cuddled by a woman that loves / cares for you,159,2023-07-27 13:47:56,medium,1.0,0.7118629217147830
-153gon9,jsjj3ey,That’s so fucking meta that I’m down to get mowed over by those robots to make it happen,197,2023-07-19 03:03:48,medium,-1.0,0.8453941941261290
-1gcsrmz,ltxv48l,Behaving like a complete and utter cunt in public..,1,2024-10-27 01:03:29,medium,-1.0,0.9182547330856320
-1go7pcc,lwhu5u4,I'm a pianist with 10+ experience. But everybody swoons for the guitar guys instead.,3,2024-11-10 23:33:26,medium,-1.0,0.5034279823303220
-1gn5s30,lw9iedh,"They make an eye-catching UI, with weirdly limited features. Form over function, always.",-4,2024-11-09 15:55:16,medium,-1.0,0.588880717754364
-156w568,jt2fjch,"Because then you’re confused, is this pigeon breaking up with me? I didn’t know we were close",28,2023-07-23 01:07:13,medium,0.0,0.5972437262535100
-150qqdo,js6z8w5,"""*Next on Animal Planet: watch a centipede ambush a herd of elephants.*""",7,2023-07-16 14:28:13,medium,0.0,0.7326914668083190
-15d3svs,ju074hs,"“We can’t retreat, somebody might get hurt. Better continue sending conscripts into the meatgrinder to be safe.”",36,2023-07-29 23:10:06,medium,-1.0,0.707714855670929
-1gdagyf,lu15l7i,I’m always happy I never got a tattoo til my mid 20’s. Boy I wanted to get some stupid shit when I was young but no money.,108,2024-10-27 16:43:42,medium,1.0,0.6148375868797300
-1ga8fol,ltcyxig,"I swear to God, I will never get tired of these interservice roasts.",23,2024-10-23 15:58:07,medium,1.0,0.7489210963249210
-15eeddc,ju8pul6,Thats why they give the next guy in line the bullets.,2,2023-07-31 19:12:22,medium,-1.0,0.6152171492576600
-15866xt,jt9g5mu,Did anything cure your Slewfoot hangover? I want more!,2,2023-07-24 15:47:35,medium,0.0,0.4405606985092160
-158pk79,jtbhuqr,The Sirens of Titan by Kurt Vonnegut made me laugh so hard and so much,8,2023-07-24 23:58:41,medium,1.0,0.9526568055152890
+Which is fair, he is almost losing money with this pitch.",2,2024-10-31 18:37:21,medium,-1.0,-1
+1gdbibv,lu3uhpt,End the two tiered legal system. Arrest this dipshit.,1,2024-10-28 01:12:41,medium,-1.0,-1
+15aquxb,jtnvo9o,Correction: Being cuddled by a woman that loves / cares for you,159,2023-07-27 13:47:56,medium,1.0,1
+153gon9,jsjj3ey,That’s so fucking meta that I’m down to get mowed over by those robots to make it happen,197,2023-07-19 03:03:48,medium,-1.0,-1
+1gcsrmz,ltxv48l,Behaving like a complete and utter cunt in public..,1,2024-10-27 01:03:29,medium,-1.0,-1
+1go7pcc,lwhu5u4,I'm a pianist with 10+ experience. But everybody swoons for the guitar guys instead.,3,2024-11-10 23:33:26,medium,-1.0,0
+1gn5s30,lw9iedh,"They make an eye-catching UI, with weirdly limited features. Form over function, always.",-4,2024-11-09 15:55:16,medium,-1.0,-1
+156w568,jt2fjch,"Because then you’re confused, is this pigeon breaking up with me? I didn’t know we were close",28,2023-07-23 01:07:13,medium,0.0,-1
+150qqdo,js6z8w5,"""*Next on Animal Planet: watch a centipede ambush a herd of elephants.*""",7,2023-07-16 14:28:13,medium,0.0,0
+15d3svs,ju074hs,"“We can’t retreat, somebody might get hurt. Better continue sending conscripts into the meatgrinder to be safe.”",36,2023-07-29 23:10:06,medium,-1.0,-1
+1gdagyf,lu15l7i,I’m always happy I never got a tattoo til my mid 20’s. Boy I wanted to get some stupid shit when I was young but no money.,108,2024-10-27 16:43:42,medium,1.0,-1
+1ga8fol,ltcyxig,"I swear to God, I will never get tired of these interservice roasts.",23,2024-10-23 15:58:07,medium,1.0,1
+15eeddc,ju8pul6,Thats why they give the next guy in line the bullets.,2,2023-07-31 19:12:22,medium,-1.0,0
+15866xt,jt9g5mu,Did anything cure your Slewfoot hangover? I want more!,2,2023-07-24 15:47:35,medium,0.0,0
+158pk79,jtbhuqr,The Sirens of Titan by Kurt Vonnegut made me laugh so hard and so much,8,2023-07-24 23:58:41,medium,1.0,1
 1ghzqtb,lv32an8,"#of course the very people trump would deride (women, immigrants) are the ones who would support him.-1
 
 
-Tread on me, *daddy*.",2,2024-11-02 21:55:05,medium,1.0,0.8296424150466920
-151amgu,js8e7yb,"Ah, I see. Like in terms of whether it was successful or not.",1,2023-07-16 20:15:42,medium,0.0,0.7536823749542240
-1gownjo,lwnmjvh,"This is the whole reason Epstein was created. Whatever he had, Putin probably got.",3,2024-11-11 22:34:32,medium,-1.0,0.7769666314125060
-1gp9nkr,lwptrrh,"Bluesky is great, reminds me of Twitter before Leon took over. Just need more people to migrate.",1,2024-11-12 07:39:14,medium,1.0,0.8672167658805850
-1garv0k,ltgez6q,I was surprised when Mel Brookes appeared amongst the producers of  'The Elephant Man'.,70,2024-10-24 03:16:33,medium,0.0,0.6180387139320370
-1ghuysm,lv1ihsz,The same radical right that sold out anyone and anything to get Russian money?,4,2024-11-02 16:53:49,medium,0.0,0.7058971524238590
-1568xho,jsyu73c,"""I´m escaping to the one place that hasn´t been corrupted by capitalism. SPACE!""",1,2023-07-22 06:08:38,medium,1.0,0.5626215934753420
-1gindmi,lv7xfar,"Well, last I remember she's on the run as a fugitive",19,2024-11-03 18:40:18,medium,-1.0,0.7400981783866880
+Tread on me, *daddy*.",2,2024-11-02 21:55:05,medium,1.0,-1
+151amgu,js8e7yb,"Ah, I see. Like in terms of whether it was successful or not.",1,2023-07-16 20:15:42,medium,0.0,0
+1gownjo,lwnmjvh,"This is the whole reason Epstein was created. Whatever he had, Putin probably got.",3,2024-11-11 22:34:32,medium,-1.0,-1
+1gp9nkr,lwptrrh,"Bluesky is great, reminds me of Twitter before Leon took over. Just need more people to migrate.",1,2024-11-12 07:39:14,medium,1.0,1
+1garv0k,ltgez6q,I was surprised when Mel Brookes appeared amongst the producers of  'The Elephant Man'.,70,2024-10-24 03:16:33,medium,0.0,0
+1ghuysm,lv1ihsz,The same radical right that sold out anyone and anything to get Russian money?,4,2024-11-02 16:53:49,medium,0.0,-1
+1568xho,jsyu73c,"""I´m escaping to the one place that hasn´t been corrupted by capitalism. SPACE!""",1,2023-07-22 06:08:38,medium,1.0,0
+1gindmi,lv7xfar,"Well, last I remember she's on the run as a fugitive",19,2024-11-03 18:40:18,medium,-1.0,0
 1gpw1pa,lwtk70d,"The link between IBD and emulsifiers is well established - in 20/30 years they may likely be viewed as causal.
 
-Get this crap out of our foods.",67,2024-11-12 22:16:05,medium,-1.0,0.7751615047454830
+Get this crap out of our foods.",67,2024-11-12 22:16:05,medium,-1.0,-1
 1g7x6cw,lsxaitb,">a systematic problem (not human error
 
-Yeah it's human exploitation",1,2024-10-20 23:34:08,medium,-1.0,0.7776723504066470
+Yeah it's human exploitation",1,2024-10-20 23:34:08,medium,-1.0,-1
 1g7x6cw,lsxaitb,">a systematic problem (not human error
 
-Yeah it's human exploitation",1,2024-10-20 23:34:08,medium,-1.0,0.7776723504066470
-15940w3,jteb8oj,"Alma from Ninja Gaiden for the Xbox. Wasn't indefinitely, as I did pick it up again 12 years later but teenage me stood no chance.",11,2023-07-25 15:42:56,medium,0.0,0.5363767147064210
-1gagt72,ltfdz6k,Can we release the Co2 in a forest and create super trees?,1,2024-10-23 23:32:06,medium,0.0,0.8338262438774110
-15aka0v,jtm7le5,He’s saying ‘uh should I tell the truth now? Is it time are people finding out about it..durrrr.”,1,2023-07-27 03:17:40,medium,0.0,0.6987751722335820
-154x7xe,jsrodi2,"Hank Scorpio. Sure, he's a supervillain, but he's a pretty successful one and genuinely cares about his employees.",23,2023-07-20 19:15:13,medium,1.0,0.8115426301956180
-1g9e786,lt9gous,Science shocker: Guys that eat a lot of random vag are prone to mouth std.,1,2024-10-23 00:14:53,medium,-1.0,0.7096825838088990
-1gph0k3,lwvwy4w,Big time Steph Curry fan here. This story made my day! Thank you! :),1,2024-11-13 07:52:55,medium,1.0,0.9874281287193300
-15c18m5,jtu1d53,Every other Jeepers Creepers they made except the first two and the second one is walking a thin line. Nothing will ever compare to the original.,136,2023-07-28 17:56:34,medium,-1.0,0.7639450430870060
-1gd0uy4,ltz6jrd,"Good people aren't usually politicians and vice versa, especially in the new dark ages.",1,2024-10-27 07:34:01,medium,-1.0,0.6128115653991700
-1gmhm4y,lw5zh0y,Not necessarily. You tame them. But they have traps as a class ability but they aren’t exclusively for taming pets.,1,2024-11-08 23:33:50,medium,0.0,0.8170300126075750
-1gbd1go,ltmqoas,"I work 12's and 4-day weekends are amazing. It's not week on week off schedule. It's 4 days on 3 days off, then its 3 days on 4 days off.",35,2024-10-25 03:59:49,medium,1.0,0.9357906579971310
-1gkydds,lvqr53u,A good night's sleep. And the feeling of relief when you feared a bad health diagnosis and it wasn't as bad as you thought. ,4,2024-11-06 17:08:50,medium,1.0,0.7488307952880860
-1gj3vbw,lvaqm4r,This is one of the biggest reasons I voted early.  The entire week is going to be a circus no matter who wins.,1,2024-11-04 04:05:16,medium,-1.0,0.4645335376262670
+Yeah it's human exploitation",1,2024-10-20 23:34:08,medium,-1.0,-1
+15940w3,jteb8oj,"Alma from Ninja Gaiden for the Xbox. Wasn't indefinitely, as I did pick it up again 12 years later but teenage me stood no chance.",11,2023-07-25 15:42:56,medium,0.0,0
+1gagt72,ltfdz6k,Can we release the Co2 in a forest and create super trees?,1,2024-10-23 23:32:06,medium,0.0,0
+15aka0v,jtm7le5,He’s saying ‘uh should I tell the truth now? Is it time are people finding out about it..durrrr.”,1,2023-07-27 03:17:40,medium,0.0,0
+154x7xe,jsrodi2,"Hank Scorpio. Sure, he's a supervillain, but he's a pretty successful one and genuinely cares about his employees.",23,2023-07-20 19:15:13,medium,1.0,1
+1g9e786,lt9gous,Science shocker: Guys that eat a lot of random vag are prone to mouth std.,1,2024-10-23 00:14:53,medium,-1.0,-1
+1gph0k3,lwvwy4w,Big time Steph Curry fan here. This story made my day! Thank you! :),1,2024-11-13 07:52:55,medium,1.0,1
+15c18m5,jtu1d53,Every other Jeepers Creepers they made except the first two and the second one is walking a thin line. Nothing will ever compare to the original.,136,2023-07-28 17:56:34,medium,-1.0,-1
+1gd0uy4,ltz6jrd,"Good people aren't usually politicians and vice versa, especially in the new dark ages.",1,2024-10-27 07:34:01,medium,-1.0,-1
+1gmhm4y,lw5zh0y,Not necessarily. You tame them. But they have traps as a class ability but they aren’t exclusively for taming pets.,1,2024-11-08 23:33:50,medium,0.0,0
+1gbd1go,ltmqoas,"I work 12's and 4-day weekends are amazing. It's not week on week off schedule. It's 4 days on 3 days off, then its 3 days on 4 days off.",35,2024-10-25 03:59:49,medium,1.0,1
+1gkydds,lvqr53u,A good night's sleep. And the feeling of relief when you feared a bad health diagnosis and it wasn't as bad as you thought. ,4,2024-11-06 17:08:50,medium,1.0,1
+1gj3vbw,lvaqm4r,This is one of the biggest reasons I voted early.  The entire week is going to be a circus no matter who wins.,1,2024-11-04 04:05:16,medium,-1.0,-1
 1ge581n,lu9boar,"2020 DNC says otherwise, she had 0 votes. -1
 
-If they held the DNC this year, she would not have won all the delegates needed. She was installed.",-4,2024-10-28 23:03:51,medium,0.0,0.6241961717605590
-1gmymsm,lw75fus,"You joke, but Saudi Arabia is unironically Israel's best ally in the region.",75,2024-11-09 03:52:07,medium,0.0,0.4902022778987880
-1gfid8d,luhxrc6,If Trump wins a large percentage of reddit posters will need therapy.,7,2024-10-30 10:13:42,medium,-1.0,0.6263788938522340
-1gjttk5,lvfxw1d,I love Apocalypto. I've always had an interest for mesoamerican civilizations.,16,2024-11-05 00:32:22,medium,1.0,0.9690147042274480
-1gj3p1k,lvamz2m,"Wow, this is how I discovered AC/DC is an Australian band, not sure how I never knew that until now lol",1,2024-11-04 03:39:41,medium,1.0,0.9300746917724610
+If they held the DNC this year, she would not have won all the delegates needed. She was installed.",-4,2024-10-28 23:03:51,medium,0.0,-1
+1gmymsm,lw75fus,"You joke, but Saudi Arabia is unironically Israel's best ally in the region.",75,2024-11-09 03:52:07,medium,0.0,0
+1gfid8d,luhxrc6,If Trump wins a large percentage of reddit posters will need therapy.,7,2024-10-30 10:13:42,medium,-1.0,-1
+1gjttk5,lvfxw1d,I love Apocalypto. I've always had an interest for mesoamerican civilizations.,16,2024-11-05 00:32:22,medium,1.0,1
+1gj3p1k,lvamz2m,"Wow, this is how I discovered AC/DC is an Australian band, not sure how I never knew that until now lol",1,2024-11-04 03:39:41,medium,1.0,1
 158vijx,jtdmybj,"There is a reason I had it in italics.
 
-You should be able to tell the meaning by that.",-5,2023-07-25 12:54:34,medium,0.0,0.8197647333145140
-1gpjzrx,lws0zqp,"You realize that they need engineers to verify grant requests and contracts too, right?",3,2024-11-12 17:29:05,medium,0.0,0.8642271757125850
+You should be able to tell the meaning by that.",-5,2023-07-25 12:54:34,medium,0.0,0
+1gpjzrx,lws0zqp,"You realize that they need engineers to verify grant requests and contracts too, right?",3,2024-11-12 17:29:05,medium,0.0,0
 1566on6,jsypixu,"Fuckin just teach him to make a s'more. And do other shit. He'll come along.  
-Hey! He rounds out your team, ok?",5,2023-07-22 05:14:40,medium,0.0,0.750592052936554
-15au2z8,jtnnbzb,"Waze is far superior to other maps for driving, for me in the UK anyway.",1,2023-07-27 12:45:47,medium,1.0,0.9029290080070500
-153eczh,jskxe7t,"As big as the last actor was, he's supposed to be The Hounds older brother and he looks 20 years younger than the Hound.",37,2023-07-19 12:23:50,medium,0.0,0.7939746379852300
-1gi3die,lv2ynve,"Definitely gonna try the bouillon cube, thank you fellow Netizen!",3,2024-11-02 21:34:02,medium,1.0,0.981257438659668
-1gi6jwb,lv3766p,The guy who gets ballista'd off the wall in Helm's Deep. Definitely the work of a splatter filmmaker.,16,2024-11-02 22:23:48,medium,0.0,0.5139675140380860
-1gegd82,luauio6,"As a cake decorator, all my sculpting is done with icing. Fondant is expensive and nasty.",7,2024-10-29 04:31:32,medium,-1.0,0.8518008589744570
-1gj061n,lvap64o,"My heart is an idiot, my brain makes much better choices.",2,2024-11-04 03:54:51,medium,1.0,0.7341599464416500
-1govy0u,lwlq3p5,Had he done it through paternity fraud he wouldn’t even get a day in prison. Laws are weird.,-20,2024-11-11 16:44:43,medium,-1.0,0.8938151597976690
-15fbedc,judmeie,What I fear about starting the Discworld series is never wanting to read anything else ever again.,2,2023-08-01 18:43:23,medium,1.0,0.8623169660568240
-1g93307,lt51mmc,"3.8 pt lead in the weeks after she announced. 1.8 pt lead as of yesterday. 538s model now has Trump winning 52 times out of 100. No certainty, indeed.",1,2024-10-22 07:47:19,medium,0.0,0.6948397159576420
-1gc0x7l,ltqyj2g,It worked for the Dutch after that airliner was shot down by a Russian missile. So effective /s,78,2024-10-25 21:09:05,medium,0.0,0.473000019788742
-1g8y6kj,lt2fohb,Already boycotted. Sent corporate a message yesterday.,22,2024-10-21 20:49:28,medium,-1.0,0.8506935238838200
-1g8rdce,lt1c03y,"""Oyster shucking"" might be gender neutral term already considering usage like ""Rocky Mountain oysters"".",0,2024-10-21 17:27:59,medium,0.0,0.8394834995269780
-1g8g182,lsyu9z2,Bridal kidnappings were common back in the day and sadly still happen in certain parts of the world.,1,2024-10-21 06:14:48,medium,-1.0,0.8503267765045170
-15d8gxr,ju2eret,"“If conservatives become convinced they cannot win democratically, they will not abandon conservatism.” -David Frum",5,2023-07-30 12:43:40,medium,0.0,0.8194250464439390
-154luuc,jss8nf0,"Yup, [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) has actually been really effective at consumer data protection.",1,2023-07-20 21:23:30,medium,1.0,0.9128755927085880
-1go4bgf,lwjh1bn,"They'll just say Hillary is controlling the prices using her ""deep state powers"" or some other bullshit.",1,2024-11-11 05:50:40,medium,-1.0,0.7581349611282350
+Hey! He rounds out your team, ok?",5,2023-07-22 05:14:40,medium,0.0,-1
+15au2z8,jtnnbzb,"Waze is far superior to other maps for driving, for me in the UK anyway.",1,2023-07-27 12:45:47,medium,1.0,1
+153eczh,jskxe7t,"As big as the last actor was, he's supposed to be The Hounds older brother and he looks 20 years younger than the Hound.",37,2023-07-19 12:23:50,medium,0.0,0
+1gi3die,lv2ynve,"Definitely gonna try the bouillon cube, thank you fellow Netizen!",3,2024-11-02 21:34:02,medium,1.0,1
+1gi6jwb,lv3766p,The guy who gets ballista'd off the wall in Helm's Deep. Definitely the work of a splatter filmmaker.,16,2024-11-02 22:23:48,medium,0.0,0
+1gegd82,luauio6,"As a cake decorator, all my sculpting is done with icing. Fondant is expensive and nasty.",7,2024-10-29 04:31:32,medium,-1.0,-1
+1gj061n,lvap64o,"My heart is an idiot, my brain makes much better choices.",2,2024-11-04 03:54:51,medium,1.0,-1
+1govy0u,lwlq3p5,Had he done it through paternity fraud he wouldn’t even get a day in prison. Laws are weird.,-20,2024-11-11 16:44:43,medium,-1.0,-1
+15fbedc,judmeie,What I fear about starting the Discworld series is never wanting to read anything else ever again.,2,2023-08-01 18:43:23,medium,1.0,-1
+1g93307,lt51mmc,"3.8 pt lead in the weeks after she announced. 1.8 pt lead as of yesterday. 538s model now has Trump winning 52 times out of 100. No certainty, indeed.",1,2024-10-22 07:47:19,medium,0.0,0
+1gc0x7l,ltqyj2g,It worked for the Dutch after that airliner was shot down by a Russian missile. So effective /s,78,2024-10-25 21:09:05,medium,0.0,0
+1g8y6kj,lt2fohb,Already boycotted. Sent corporate a message yesterday.,22,2024-10-21 20:49:28,medium,-1.0,-1
+1g8rdce,lt1c03y,"""Oyster shucking"" might be gender neutral term already considering usage like ""Rocky Mountain oysters"".",0,2024-10-21 17:27:59,medium,0.0,0
+1g8g182,lsyu9z2,Bridal kidnappings were common back in the day and sadly still happen in certain parts of the world.,1,2024-10-21 06:14:48,medium,-1.0,-1
+15d8gxr,ju2eret,"“If conservatives become convinced they cannot win democratically, they will not abandon conservatism.” -David Frum",5,2023-07-30 12:43:40,medium,0.0,0
+154luuc,jss8nf0,"Yup, [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) has actually been really effective at consumer data protection.",1,2023-07-20 21:23:30,medium,1.0,1
+1go4bgf,lwjh1bn,"They'll just say Hillary is controlling the prices using her ""deep state powers"" or some other bullshit.",1,2024-11-11 05:50:40,medium,-1.0,-1
 15e2lyl,ju5io8v,"> Were you his first too?
 
-No, nowhere  near it. I wasn’t even his 21st.",29,2023-07-31 02:27:45,medium,-1.0,0.785350501537323
-1g88hb2,lsymfvj,"It's quite surprising that Siberia never had Malaria, I thought they had biblical seasonal swarms of the things.",2,2024-10-21 04:57:20,medium,0.0,0.5941034555435180
-1g88hb2,lsymfvj,"It's quite surprising that Siberia never had Malaria, I thought they had biblical seasonal swarms of the things.",2,2024-10-21 04:57:20,medium,0.0,0.5941034555435180
-1gq1rw6,lwvii2e,This made me giggle because I also was confused and thought Oosuh was some Narnia type place,22,2024-11-13 05:32:23,medium,0.0,0.5959524512290960
-1gdk8dy,lu2o985,It seems a LOT of Americans don't realize the United States has more than just states.,30,2024-10-27 21:14:58,medium,0.0,0.6321905851364140
-155lrd3,jsw4cxa,"I feel more than a bunch of poseurs are trying to jump on the bandwagon and say ""I'm a nerd"" because they liked a few MCU movies or something.",3,2023-07-21 17:25:14,medium,0.0,0.4813809394836430
-153ynzi,jsm9ets,"Terrific book. I loved the nature writing and the characters, and the resolutions of their various stories were haunting (in a good way).",2,2023-07-19 17:44:58,medium,1.0,0.9820410013198850
-1gncww5,lw9rr0l,Every time it comes up  https://imgur.com/this-is-those-who-say-ben-affleck-cant-be-batman-MpguI,18,2024-11-09 16:46:08,medium,0.0,0.5526215434074400
-1gh7z40,luzl3yw,I was shocked until I actually read the article and it was some clown from Redding.,1,2024-11-02 08:04:45,medium,-1.0,0.8581250309944150
+No, nowhere  near it. I wasn’t even his 21st.",29,2023-07-31 02:27:45,medium,-1.0,0
+1g88hb2,lsymfvj,"It's quite surprising that Siberia never had Malaria, I thought they had biblical seasonal swarms of the things.",2,2024-10-21 04:57:20,medium,0.0,-1
+1g88hb2,lsymfvj,"It's quite surprising that Siberia never had Malaria, I thought they had biblical seasonal swarms of the things.",2,2024-10-21 04:57:20,medium,0.0,-1
+1gq1rw6,lwvii2e,This made me giggle because I also was confused and thought Oosuh was some Narnia type place,22,2024-11-13 05:32:23,medium,0.0,0
+1gdk8dy,lu2o985,It seems a LOT of Americans don't realize the United States has more than just states.,30,2024-10-27 21:14:58,medium,0.0,-1
+155lrd3,jsw4cxa,"I feel more than a bunch of poseurs are trying to jump on the bandwagon and say ""I'm a nerd"" because they liked a few MCU movies or something.",3,2023-07-21 17:25:14,medium,0.0,0
+153ynzi,jsm9ets,"Terrific book. I loved the nature writing and the characters, and the resolutions of their various stories were haunting (in a good way).",2,2023-07-19 17:44:58,medium,1.0,1
+1gncww5,lw9rr0l,Every time it comes up  https://imgur.com/this-is-those-who-say-ben-affleck-cant-be-batman-MpguI,18,2024-11-09 16:46:08,medium,0.0,0
+1gh7z40,luzl3yw,I was shocked until I actually read the article and it was some clown from Redding.,1,2024-11-02 08:04:45,medium,-1.0,-1
 1gkaq5j,lvkd9b1,"Fighter pilot - now I fly helicopter. 
 
-I always joke when Tom cruise bailed out in Top Gun like a sissy, who saved him? A helicopter pilot.",12,2024-11-05 18:39:58,medium,-1.0,0.6323643922805790
-15cic48,jtwxnlr,"Rheinmetall is showing balls on behalf of Germany, honestly",45,2023-07-29 07:35:56,medium,0.0,0.4966687560081480
-1571vbj,jt3965o,Me either. No desire to either. Seen too many people do stupid shit or wake up ruined the next day to be tempted.,11,2023-07-23 06:01:39,medium,-1.0,0.9221283197402950
-1gkmekr,lvmk7r1,This may not belong on this conversation thread… but it means a lot to see people all over the world supporting and cheering for us. Thank you! 💛,1,2024-11-06 01:30:59,medium,1.0,0.9795541763305660
-1gpjuwy,lwu20wl,I actually won the remains of the blended iPad in a competition he hosted along with a blendtec blender,11,2024-11-12 23:56:43,medium,1.0,0.7895206809043880
-1gp43t1,lwnhhal,If Nothing is done about it then is it really breaking the law?,18,2024-11-11 22:07:22,medium,-1.0,0.799784779548645
-1gfrunr,lukz83d,Anything else you’ve found to help with the Homeland itch?,2,2024-10-30 20:24:09,medium,0.0,0.8091902136802670
-14zyutp,js3x5e1,It is not about the hand. It is about the plants that monke eats.,1,2023-07-15 20:37:39,medium,0.0,0.6510335206985470
-1gjj5u4,lvgp672,"Just a bunch of fucking, brain damaged, worm-eaten morons this cabinet huh.  Well at least DeVos said she'd come back, that worthless C.",1,2024-11-05 03:11:25,medium,-1.0,0.9505321979522700
-15d7f9k,ju2nyjk,I would actually applaud the title Ant-Man & The Wasp as the title of the third movie if Paul Rudd and Evangeline Lily weren't in it.,3,2023-07-30 14:01:15,medium,-1.0,0.5418609976768490
+I always joke when Tom cruise bailed out in Top Gun like a sissy, who saved him? A helicopter pilot.",12,2024-11-05 18:39:58,medium,-1.0,0
+15cic48,jtwxnlr,"Rheinmetall is showing balls on behalf of Germany, honestly",45,2023-07-29 07:35:56,medium,0.0,0
+1571vbj,jt3965o,Me either. No desire to either. Seen too many people do stupid shit or wake up ruined the next day to be tempted.,11,2023-07-23 06:01:39,medium,-1.0,-1
+1gkmekr,lvmk7r1,This may not belong on this conversation thread… but it means a lot to see people all over the world supporting and cheering for us. Thank you! 💛,1,2024-11-06 01:30:59,medium,1.0,1
+1gpjuwy,lwu20wl,I actually won the remains of the blended iPad in a competition he hosted along with a blendtec blender,11,2024-11-12 23:56:43,medium,1.0,1
+1gp43t1,lwnhhal,If Nothing is done about it then is it really breaking the law?,18,2024-11-11 22:07:22,medium,-1.0,-1
+1gfrunr,lukz83d,Anything else you’ve found to help with the Homeland itch?,2,2024-10-30 20:24:09,medium,0.0,0
+14zyutp,js3x5e1,It is not about the hand. It is about the plants that monke eats.,1,2023-07-15 20:37:39,medium,0.0,0
+1gjj5u4,lvgp672,"Just a bunch of fucking, brain damaged, worm-eaten morons this cabinet huh.  Well at least DeVos said she'd come back, that worthless C.",1,2024-11-05 03:11:25,medium,-1.0,-1
+15d7f9k,ju2nyjk,I would actually applaud the title Ant-Man & The Wasp as the title of the third movie if Paul Rudd and Evangeline Lily weren't in it.,3,2023-07-30 14:01:15,medium,-1.0,1
 15a57as,jtj0qef,"Titanic
 
 Howls Moving Castle
@@ -219,50 +219,50 @@ Star Wars Episode VII
 
 Saving Private Ryan
 
-Avengers Infinity War",2,2023-07-26 14:39:42,medium,0.0,0.6707303524017330
-1glazsx,lvuf5hc,Doesn't Rayo's number make Graham's number look like a phone number in comparison?,1,2024-11-07 04:14:40,medium,0.0,0.8098804950714110
-1goq28e,lwkqpwy,Everything that we thought to be illegal will all be approved by Supreme Court.,21,2024-11-11 13:21:33,medium,-1.0,0.754256546497345
-15f852r,jud8nai,That’s what white privileged is…a different set of rules for “them”.,1,2023-08-01 17:18:26,medium,-1.0,0.4940445125103000
-156kzfg,jt1bwa9,"And let me guess, when I call they are “experiencing higher than average call volume or wait time”?",1,2023-07-22 19:59:00,medium,0.0,0.7189883589744570
-15b3kz3,jtofk0i,"Real men don't put cream in their coffee.  I responded with, ""real men don't give a shit what other men think of their beverage choices.""",8444,2023-07-27 15:55:27,medium,1.0,0.4924201667308810
-150j9g1,js3shtn,I just spent more time browsing that sub than I could ever comfortably admit to; thank you for the link.,178,2023-07-15 20:03:30,medium,1.0,0.8344341516494750
+Avengers Infinity War",2,2023-07-26 14:39:42,medium,0.0,0
+1glazsx,lvuf5hc,Doesn't Rayo's number make Graham's number look like a phone number in comparison?,1,2024-11-07 04:14:40,medium,0.0,0
+1goq28e,lwkqpwy,Everything that we thought to be illegal will all be approved by Supreme Court.,21,2024-11-11 13:21:33,medium,-1.0,0
+15f852r,jud8nai,That’s what white privileged is…a different set of rules for “them”.,1,2023-08-01 17:18:26,medium,-1.0,-1
+156kzfg,jt1bwa9,"And let me guess, when I call they are “experiencing higher than average call volume or wait time”?",1,2023-07-22 19:59:00,medium,0.0,-1
+15b3kz3,jtofk0i,"Real men don't put cream in their coffee.  I responded with, ""real men don't give a shit what other men think of their beverage choices.""",8444,2023-07-27 15:55:27,medium,1.0,-1
+150j9g1,js3shtn,I just spent more time browsing that sub than I could ever comfortably admit to; thank you for the link.,178,2023-07-15 20:03:30,medium,1.0,1
 1gfi8vq,luhvyjp,"Railway Rivals. 
 
-It’s a shame you can’t get it any more, and that the games you can buy that are based on it just aren’t as good.",1,2024-10-30 09:55:42,medium,-1.0,0.8942354321479800
-1gahg01,ltfa9kt,I got motion sick all the time when I first got my headset. Thankfully most people eventually get use to it. ,1,2024-10-23 23:10:20,medium,-1.0,0.4447448849678040
-15031uu,js1bs20,Are fields made of space? Or is space made of fields? What's the difference between space and fields?,1,2023-07-15 06:31:27,medium,0.0,0.9117296934127810
-15bf3a7,jts5u0q,"I heard the biggest issue isn't really the tank to tank fighting though, its getting through the mines",5,2023-07-28 09:26:15,medium,0.0,0.5652742385864260
-1gmqcs1,lw6zib4,"I think the ""landslide"" rhetoric has been coming mostly from malicious accounts. I see it on Instagram too.",1,2024-11-09 03:11:22,medium,-1.0,0.7768892049789430
-1g7xuxk,lsv6vky,Ty for the point of clarification. Probably equally difficult to get to them then?,4,2024-10-20 16:53:23,medium,1.0,0.4982514381408690
-1g7xuxk,lsv6vky,Ty for the point of clarification. Probably equally difficult to get to them then?,4,2024-10-20 16:53:23,medium,1.0,0.4982514381408690
-1gdd6ul,lu44swo,A job. 7 months and 983 applications and not a single offer. Getting desperate. ☹️,7,2024-10-28 02:17:03,medium,-1.0,0.8769115805625920
-1gdbibv,lu4wvda,The social contract is dead. Long live our feudal overlords!,1,2024-10-28 06:06:31,medium,-1.0,0.8554816842079160
-1gmra46,lw5sic0,"Well, *had* career civil services judging by what's about to happen.",48,2024-11-08 22:54:00,medium,-1.0,0.6656105518341060
-15bq8t6,jtsbuc9,"I like a strong and confident woman who doesn't actually need me for stability, but for my company.",3,2023-07-28 10:39:47,medium,1.0,0.8228869438171390
-1gpsks5,lwta64p,"Plus physicians / medical professionals outside of the US are not paid anywhere near what is paid in the US.  For example, in Barcelona a physician makes 50,000 euros a year",9,2024-11-12 21:23:23,long,0.0,0.5377339124679570
-1gm1s3x,lvz3mh9,"Farmers have been growing fruit for decades (if not generations) and their livelihood depends on the size and quality of those fruit.  You've been doing it for a year or two as a hobby.  Professionals are just better at things than hobbyists are, they have been tweaking things and honing in on improvements day in and day out that result in greater yields of better quality fruit than you can spending an hour or two a week on it.",1,2024-11-07 22:05:56,long,1.0,0.4824951291084290
+It’s a shame you can’t get it any more, and that the games you can buy that are based on it just aren’t as good.",1,2024-10-30 09:55:42,medium,-1.0,-1
+1gahg01,ltfa9kt,I got motion sick all the time when I first got my headset. Thankfully most people eventually get use to it. ,1,2024-10-23 23:10:20,medium,-1.0,-1
+15031uu,js1bs20,Are fields made of space? Or is space made of fields? What's the difference between space and fields?,1,2023-07-15 06:31:27,medium,0.0,0
+15bf3a7,jts5u0q,"I heard the biggest issue isn't really the tank to tank fighting though, its getting through the mines",5,2023-07-28 09:26:15,medium,0.0,-1
+1gmqcs1,lw6zib4,"I think the ""landslide"" rhetoric has been coming mostly from malicious accounts. I see it on Instagram too.",1,2024-11-09 03:11:22,medium,-1.0,-1
+1g7xuxk,lsv6vky,Ty for the point of clarification. Probably equally difficult to get to them then?,4,2024-10-20 16:53:23,medium,1.0,-1
+1g7xuxk,lsv6vky,Ty for the point of clarification. Probably equally difficult to get to them then?,4,2024-10-20 16:53:23,medium,1.0,-1
+1gdd6ul,lu44swo,A job. 7 months and 983 applications and not a single offer. Getting desperate. ☹️,7,2024-10-28 02:17:03,medium,-1.0,-1
+1gdbibv,lu4wvda,The social contract is dead. Long live our feudal overlords!,1,2024-10-28 06:06:31,medium,-1.0,-1
+1gmra46,lw5sic0,"Well, *had* career civil services judging by what's about to happen.",48,2024-11-08 22:54:00,medium,-1.0,0
+15bq8t6,jtsbuc9,"I like a strong and confident woman who doesn't actually need me for stability, but for my company.",3,2023-07-28 10:39:47,medium,1.0,1
+1gpsks5,lwta64p,"Plus physicians / medical professionals outside of the US are not paid anywhere near what is paid in the US.  For example, in Barcelona a physician makes 50,000 euros a year",9,2024-11-12 21:23:23,long,0.0,-1
+1gm1s3x,lvz3mh9,"Farmers have been growing fruit for decades (if not generations) and their livelihood depends on the size and quality of those fruit.  You've been doing it for a year or two as a hobby.  Professionals are just better at things than hobbyists are, they have been tweaking things and honing in on improvements day in and day out that result in greater yields of better quality fruit than you can spending an hour or two a week on it.",1,2024-11-07 22:05:56,long,1.0,0
 1gkngcz,lvmsenf,"One current problem is EV makers want to drop AM. the switching electronics to control the motor(s) generates a lot of interference, Car makers don't want to spend the extra money to shield the EMI. There is some pushback on this.
 
-[https://cars.usnews.com/cars-trucks/features/why-electric-cars-are-getting-rid-of-am-radio](https://cars.usnews.com/cars-trucks/features/why-electric-cars-are-getting-rid-of-am-radio)",1,2024-11-06 02:20:36,long,-1.0,0.6406527161598210
+[https://cars.usnews.com/cars-trucks/features/why-electric-cars-are-getting-rid-of-am-radio](https://cars.usnews.com/cars-trucks/features/why-electric-cars-are-getting-rid-of-am-radio)",1,2024-11-06 02:20:36,long,-1.0,-1
 1ghvn9n,lv0q0it,"I don’t know what the heck you’re rambling on about but I KNOW plenty Irish people, they are a good people’s.
 
-They’ve been through it all, they have big hearts but don’t mess with them. I stand by that.",2,2024-11-02 14:15:34,long,-1.0,0.3777832984924320
+They’ve been through it all, they have big hearts but don’t mess with them. I stand by that.",2,2024-11-02 14:15:34,long,-1.0,-1
 1gfqgqc,lul12gz,"Oh god, the whole attitude towards Trump leading up to the election is unwatchably cringe. Even as far as having Baldwin's Trump saying he's going to definitely lose.
 
 But it also delivered a great sketch after, in the form of Chappelle sitting with liberal friends watching Clinton slowly lose. At least they were able to make fun of it. 
 
-I'm just glad there seems to be a collective trauma from that overconfident loss. There's optimism and hope, but we all seem well aware that it doesn't mean shit and Trump very much could win this.",32,2024-10-30 20:33:00,long,-1.0,0.5690374374389650
+I'm just glad there seems to be a collective trauma from that overconfident loss. There's optimism and hope, but we all seem well aware that it doesn't mean shit and Trump very much could win this.",32,2024-10-30 20:33:00,long,-1.0,-1
 1gg16ko,luntpex,"In all this talk about how divisive politics have been and how we need to heal and come back together
 
 Nah, fuck that
 
 I don't need to heal shit, and I don't want those losers ""back in the fold.""
 
-I don't care if they decide to switch votes now. Uh uh, too late. Fuck you for creating this whole mess. No brownie points awarded",1,2024-10-31 07:24:28,long,-1.0,0.9076987504959110
-1gafrxx,ltdywqj,"At first I was happy that it's become more acceptable to talk about mental illnesses, which I spent years hiding. But now everyone self diagnoses, and it diminishes the experiences and suffering of people who have real illnesses. Sure, now I could talk about my PTSD, but a lot of people will think I'm just faking or exaggerating.",51,2024-10-23 19:00:45,long,-1.0,0.713553786277771
+I don't care if they decide to switch votes now. Uh uh, too late. Fuck you for creating this whole mess. No brownie points awarded",1,2024-10-31 07:24:28,long,-1.0,-1
+1gafrxx,ltdywqj,"At first I was happy that it's become more acceptable to talk about mental illnesses, which I spent years hiding. But now everyone self diagnoses, and it diminishes the experiences and suffering of people who have real illnesses. Sure, now I could talk about my PTSD, but a lot of people will think I'm just faking or exaggerating.",51,2024-10-23 19:00:45,long,-1.0,-1
 1gjaho7,lveoovk,">How is North Korea ever under attack from anything?
 
-It's their paranoia. In 2003, when the US attacked Iraq, Kim Jong-Il (Kim Jong-Un's father) went into hiding underground for a month because he was so convinced the US would attack NK also.",1,2024-11-04 20:32:40,long,0.0,0.7385150194168090
+It's their paranoia. In 2003, when the US attacked Iraq, Kim Jong-Il (Kim Jong-Un's father) went into hiding underground for a month because he was so convinced the US would attack NK also.",1,2024-11-04 20:32:40,long,0.0,-1
 14zxbu8,js3bofo,"One of the nuances of cricket is the way winning is described. Basically it comes from the fact it is played with a single innings for each side. 
 
 Each side has 120 balls or 10 outs(wickets) whichever comes first to get the highest score they can. 
@@ -273,68 +273,68 @@ Winning by 22 runs is a pretty good result it means that the chasing team fell s
 
 When it's 2 balls left and they need 6 more runs it's much more exciting. 
 
-The max you can score on a single ball is 6 runs, each over is 6 balls(36 max per normal over). At the last over the New York team needed 40ish runs to win. So mathematically without penalties they couldn't win.",1,2023-07-15 18:00:54,long,0.0,0.6341594457626340
-1g8qomp,lt1mkf8,"Anyone posting this photo needs to include the closed sign just so we're all clear that this is a weird photo shoot and he's not actually ""working like one of us"".  Also heavy reminder to use every possible adblock when visiting dishonest media sources who clearly want Trump's campaign to continue so they can farm clicks.",27,2024-10-21 18:22:02,long,-1.0,0.6187371015548710
-1ghwl02,lv28gtj,"So much this.  Anyone that claims that some racial/ethnic/gender demographic is just a bunch of sexually-deviant capital hoarders that collude to undermine the rest of society (aka the ""stabbed-in-the-back"" narrative Hitler rose to power on) should be fair game.  Unfortunately, like 90% of reddit participates in this style of dehumanization making punching them all logistically infeasable without some kind of automated robot-punching-machine conveyer-belt system.",4,2024-11-02 19:09:44,long,-1.0,0.881106436252594
-156ls71,jt1pqd0,"You have to give credit where credit is due.  After the catastrophe of the Trump presidency, a wet mop would be better, but President Biden has actually accomplished good, notable things in the past three years, without any real scandals, just ones manufactured by right wing loonies.",1,2023-07-22 21:40:58,long,1.0,0.4944686889648440
+The max you can score on a single ball is 6 runs, each over is 6 balls(36 max per normal over). At the last over the New York team needed 40ish runs to win. So mathematically without penalties they couldn't win.",1,2023-07-15 18:00:54,long,0.0,0
+1g8qomp,lt1mkf8,"Anyone posting this photo needs to include the closed sign just so we're all clear that this is a weird photo shoot and he's not actually ""working like one of us"".  Also heavy reminder to use every possible adblock when visiting dishonest media sources who clearly want Trump's campaign to continue so they can farm clicks.",27,2024-10-21 18:22:02,long,-1.0,-1
+1ghwl02,lv28gtj,"So much this.  Anyone that claims that some racial/ethnic/gender demographic is just a bunch of sexually-deviant capital hoarders that collude to undermine the rest of society (aka the ""stabbed-in-the-back"" narrative Hitler rose to power on) should be fair game.  Unfortunately, like 90% of reddit participates in this style of dehumanization making punching them all logistically infeasable without some kind of automated robot-punching-machine conveyer-belt system.",4,2024-11-02 19:09:44,long,-1.0,-1
+156ls71,jt1pqd0,"You have to give credit where credit is due.  After the catastrophe of the Trump presidency, a wet mop would be better, but President Biden has actually accomplished good, notable things in the past three years, without any real scandals, just ones manufactured by right wing loonies.",1,2023-07-22 21:40:58,long,1.0,1
 15b73vl,jtprrxe,"I strongly believe 2008 happened because of 2001-2008, where George W. Bush and his admin, with republicans in congress, pushed *extremely* hard to weaken banking and mortgage regulations. They also pushed a policy of weakening government oversight and reach into the markets.
 
 I do not think an Al Gore presidency would have had the housing market crash. The root symptoms of the cause would not have had time to develop.
 
 While COVID would likely have occurred regardless, we can look to states with robust COVID responses who fared far better than others on their comeback. The US's vaccination policy was extremely helpful in righting the economy. Any president who had leant into the vaccinations and safety would have helped the economy recover. Trump just refused to do that (despite being poised to).
 
-At the very least, 2008 is due to the Bush leadership. Saying they would have ""happened to anyone"" is straight up ignoring the actions taking in the preceding 8 years that spawned the crisis.",1,2023-07-27 20:54:50,long,-1.0,0.5927783250808720
-1gh4yyp,luv4jyn,What I know about Thatcher I learned from my favorite punk band “Ian Rubbish and the Bizzaros”. Seems like a nice lady I don’t know what everyone’s on about,1,2024-11-01 14:44:14,long,1.0,0.6737164855003360
+At the very least, 2008 is due to the Bush leadership. Saying they would have ""happened to anyone"" is straight up ignoring the actions taking in the preceding 8 years that spawned the crisis.",1,2023-07-27 20:54:50,long,-1.0,-1
+1gh4yyp,luv4jyn,What I know about Thatcher I learned from my favorite punk band “Ian Rubbish and the Bizzaros”. Seems like a nice lady I don’t know what everyone’s on about,1,2024-11-01 14:44:14,long,1.0,1
 153j33c,jsmnflw,"He looks like an older man, so he probably did get birthright citizenship if he was born in the UK.  The UK had birthright citizenship until the early 80s, with very limited circumstances that excluded people and that would almost certainly not have applied to him.  Even now, it is not that tough to get unless you are trying for birth tourism, which the laws do prevent.
 
 They also have citizenship by descent for people of that age if his father happened to be a British citizen not by descent and married to his mother at the time of his birth.  The rules changed a little after that, but not that much.
 
-I have read the info about it as my family is British-Canadian, and I actually am automatically a UK citizen due to my family.  I could get a citizenship confirmation letter or a UK passport if I paid and submitted the proof, though I'm not inclined to do it at the moment as it's not really of benefit.",2,2023-07-19 19:14:04,long,0.0,0.8154957294464110
-1513vy0,js7m5p2,Ross should have punished whoever ate his special Thanksgiving Leftover Sandwich by having them run Curhahee in full gear right after eating the sandwich.,7,2023-07-16 17:06:55,long,-1.0,0.7740662693977360
+I have read the info about it as my family is British-Canadian, and I actually am automatically a UK citizen due to my family.  I could get a citizenship confirmation letter or a UK passport if I paid and submitted the proof, though I'm not inclined to do it at the moment as it's not really of benefit.",2,2023-07-19 19:14:04,long,0.0,0
+1513vy0,js7m5p2,Ross should have punished whoever ate his special Thanksgiving Leftover Sandwich by having them run Curhahee in full gear right after eating the sandwich.,7,2023-07-16 17:06:55,long,-1.0,-1
 1581psq,jt9op6j,"Democrats have been a bit weak on climate agenda. They should have been screaming for a climate bill the instant the NDAA came up. 
 
-No Climate bill = no war funding.",1,2023-07-24 16:42:47,long,-1.0,0.7984853386878970
+No Climate bill = no war funding.",1,2023-07-24 16:42:47,long,-1.0,-1
 1go4bgf,lwg2l9z,"No they haven't.
 
 We have historic numbers of mail-in ballots rivaled only by covid, we have historic numbers of registrations, we have historic numbers of people standing in lines to cast their vote, and we have 15 million fewer votes than in the last election.  On top of that, there were bomb threats where the votes and apparatuses were left unguarded, there were ballot boxes that were destroyed, and I'm seeing dozens of people who voted well in advance posting proof of their ballots being received but not accepted.
 
 Trump didn't win the election, the election was fraudulent.
 
-(Edit: If you agree, if you like this enough to upvote me, start bringing this up in your circle and circulating these thoughts. These are important questions to ask. If you feel contesting the results makes you too much like maga, then be different from them by protesting the election results peacefully, instead of doing nothing and ceding power to a literal fascist. I know you're exhausted, I know you want this to be over, for the anxiety to go away, for things to go back to normal, but you only have a month and a half left of that, tops, unless we do something about it.",56,2024-11-10 18:08:24,long,-1.0,0.7166131138801580
-15c2ack,jtuh5qr,"I think she’s a piece of shit and one of the ugliest living things inside and out, but I wanted to point out that (unless there is a new development I am unaware of) this talking point has no known evidence. She has some sort of email thing that anyone can sign up for that does not have an age limit. She emailed those pictures yes and there is potential that a minor signed up for her emails, but how many minors (17 and younger) do you think would sign up to get emails from that crazy ass? Also if you’re crazy enough to sign up for her emails do you think anyone of those recipients would eat her out?",1,2023-07-28 19:34:51,long,-1.0,0.8559479117393490
+(Edit: If you agree, if you like this enough to upvote me, start bringing this up in your circle and circulating these thoughts. These are important questions to ask. If you feel contesting the results makes you too much like maga, then be different from them by protesting the election results peacefully, instead of doing nothing and ceding power to a literal fascist. I know you're exhausted, I know you want this to be over, for the anxiety to go away, for things to go back to normal, but you only have a month and a half left of that, tops, unless we do something about it.",56,2024-11-10 18:08:24,long,-1.0,-1
+15c2ack,jtuh5qr,"I think she’s a piece of shit and one of the ugliest living things inside and out, but I wanted to point out that (unless there is a new development I am unaware of) this talking point has no known evidence. She has some sort of email thing that anyone can sign up for that does not have an age limit. She emailed those pictures yes and there is potential that a minor signed up for her emails, but how many minors (17 and younger) do you think would sign up to get emails from that crazy ass? Also if you’re crazy enough to sign up for her emails do you think anyone of those recipients would eat her out?",1,2023-07-28 19:34:51,long,-1.0,-1
 1gm4ypp,lw14j12,"more like since the dawn of elections. There’s always been shenanigans as far as the concept of an election goes back.
 
 Something a lot of people are glazing over is that big bump in 2020 of voter volume was because every elegible voter was mailed a ballot and didn’t have to go out of their way to vote.. in some states they even had people picking up ballots from houses and apartment buildings
 
-When you don’t have that same system in place those people won’t vote. They aren’t “real” voters in the sense that they don’t care, they don’t vote, and they’ll just vote based on whatever feels popular versus actual issues they might care about",1,2024-11-08 05:00:45,long,-1.0,0.6464310884475710
-1gkygmx,lvqirki,"Once again, it comes down to ""It's the economy, stupid"". Food and housing costs are still too high, regardless of the reasons. I've had co-workers tell me they don't like Trump, but they're gonna plug their nose and vote for him anyway, because 'living expenses were cheaper when he was President'. Unfortunately, trying to explain WHY that was the case doesn't fit on a bumper sticker.",6,2024-11-06 16:32:01,long,-1.0,0.8348432779312130
-1gn5s30,lw88vmu,"I haven't found it since, but the last of the flagship HTCs had this feature built in where the phone would automatically destroy all data if the password was put in incorrectly too many times.  Nothing I've had since then has had this.",6,2024-11-09 10:08:38,long,-1.0,0.7905929088592530
-1gnk72n,lwbeyl6,"…he absolutely took fall damage. When he staggers to his feet, he’s grimacing and grunting in pain. He’s just a fucking *super soldier*, so he’s pushing through it.",6,2024-11-09 22:05:38,long,-1.0,0.8618168234825130
-152jqu7,jsf1djr,"Many people read because they feel guilty if they aren't being productive constantly and there's a sense that reading is a productive thing to do.  I read because it's more fun than watching TV to me, but any ""reading goals"" I try to set for myself immediately make it feel like a chore.  We're all different though, and some people like the sense of accomplishment that goal completion gives them.",1,2023-07-18 05:04:55,long,0.0,0.469684362411499
-15akeo1,jtmila7,"Absolutely. You can also buy ""rain guards"" or those little plastic things you see on car windows. You can crack the window a little. And even if it rains the water won't get in. Useful in Florida.",1,2023-07-27 04:59:44,long,1.0,0.6802093982696530
+When you don’t have that same system in place those people won’t vote. They aren’t “real” voters in the sense that they don’t care, they don’t vote, and they’ll just vote based on whatever feels popular versus actual issues they might care about",1,2024-11-08 05:00:45,long,-1.0,0
+1gkygmx,lvqirki,"Once again, it comes down to ""It's the economy, stupid"". Food and housing costs are still too high, regardless of the reasons. I've had co-workers tell me they don't like Trump, but they're gonna plug their nose and vote for him anyway, because 'living expenses were cheaper when he was President'. Unfortunately, trying to explain WHY that was the case doesn't fit on a bumper sticker.",6,2024-11-06 16:32:01,long,-1.0,-1
+1gn5s30,lw88vmu,"I haven't found it since, but the last of the flagship HTCs had this feature built in where the phone would automatically destroy all data if the password was put in incorrectly too many times.  Nothing I've had since then has had this.",6,2024-11-09 10:08:38,long,-1.0,-1
+1gnk72n,lwbeyl6,"…he absolutely took fall damage. When he staggers to his feet, he’s grimacing and grunting in pain. He’s just a fucking *super soldier*, so he’s pushing through it.",6,2024-11-09 22:05:38,long,-1.0,-1
+152jqu7,jsf1djr,"Many people read because they feel guilty if they aren't being productive constantly and there's a sense that reading is a productive thing to do.  I read because it's more fun than watching TV to me, but any ""reading goals"" I try to set for myself immediately make it feel like a chore.  We're all different though, and some people like the sense of accomplishment that goal completion gives them.",1,2023-07-18 05:04:55,long,0.0,0
+15akeo1,jtmila7,"Absolutely. You can also buy ""rain guards"" or those little plastic things you see on car windows. You can crack the window a little. And even if it rains the water won't get in. Useful in Florida.",1,2023-07-27 04:59:44,long,1.0,1
 15a53lf,jtjkvkj,"Yeah, the linked article's language is phrased weirdly. Instead of ""unique anti-microbial activity"", they should have used ""unique anti-microbial **mechanism**"" instead.
 
 Reading the paper, they dive into how most honeys are broadly categorised based on their total anti-microbial activity, aka Total Activity(TA), into peroxide-activity (PA) or non-peroxide activity (NPA).
 
 Compared to manuka (Leptospermum scoparium) honey, which is an NPA honey, honeypot ant honey had no non-peroxide activity, making it a PA honey.
 
-Honestly, I kinda lost interest at this point. I'm sure this research is valuable and contributes towards medical research, but to a layman like me...",3,2023-07-26 16:45:12,long,0.0,0.5366140007972720
-1g816ja,lsvic83,Imagine if audio of Harris came out saying that she just grabs men and kisses them and that she grabs them by the dick. Lol. We don't live in a normal world anymore.,33,2024-10-20 17:51:45,long,-1.0,0.7663768529891970
-1g816ja,lsvic83,Imagine if audio of Harris came out saying that she just grabs men and kisses them and that she grabs them by the dick. Lol. We don't live in a normal world anymore.,33,2024-10-20 17:51:45,long,-1.0,0.7663768529891970
+Honestly, I kinda lost interest at this point. I'm sure this research is valuable and contributes towards medical research, but to a layman like me...",3,2023-07-26 16:45:12,long,0.0,-1
+1g816ja,lsvic83,Imagine if audio of Harris came out saying that she just grabs men and kisses them and that she grabs them by the dick. Lol. We don't live in a normal world anymore.,33,2024-10-20 17:51:45,long,-1.0,-1
+1g816ja,lsvic83,Imagine if audio of Harris came out saying that she just grabs men and kisses them and that she grabs them by the dick. Lol. We don't live in a normal world anymore.,33,2024-10-20 17:51:45,long,-1.0,-1
 1ggoa33,lurt95p,"As someone who drives a Miata, I have to keep my rear view mirror constantly flipped to the manual nighttime setting so I can just drive normally. I understand I am low to the ground and even averaged height cars can sometimes be an issue for me with headlights, but with trucks, it’s every time and all the time that they’re just beyond tall. I mean any F-150,250, and 350 alone have their lights placed literally above the total height of my shock height Miata. Even when I drive my Mazda3 and CX-3 it was an issue. Personally I’ve had some cars with amber colored lights pointing at me from behind and it was way easier to manage, blue or white light needs to be softened way more. Color is everything when it comes to nighttime vision. There’s a reason why Amber is used for fog lights. And also if you’ve ever used a red light for hunting, even when they’re ungodly bright, the red light still doesn’t pick up well by our eyes.
 
-The color spectrum should be a more commonly taught subject and a more talked about subject for anything light related. You don’t see me buying a green flashlight to see in the dark. And there’s a reason why a nighttime screen in your phone or computer goes to a more amber light color.",9,2024-10-31 22:48:05,long,-1.0,0.6923345923423770
-1gaaard,lte96wb,"Warranties on home carpets are a joke. Most require you to have proof of two professional grade cleaning sessions per year for your full carpet. They know that not one person pays for such a ridiculous process so they can say that their carpets have a 25 year ""warranty""",2,2024-10-23 19:53:57,long,-1.0,0.8557851314544680
+The color spectrum should be a more commonly taught subject and a more talked about subject for anything light related. You don’t see me buying a green flashlight to see in the dark. And there’s a reason why a nighttime screen in your phone or computer goes to a more amber light color.",9,2024-10-31 22:48:05,long,-1.0,0
+1gaaard,lte96wb,"Warranties on home carpets are a joke. Most require you to have proof of two professional grade cleaning sessions per year for your full carpet. They know that not one person pays for such a ridiculous process so they can say that their carpets have a 25 year ""warranty""",2,2024-10-23 19:53:57,long,-1.0,-1
 1ggavyp,lupe7o8,"I don't understand what you are trying to prove. 
 
 They used ChatGPT 2, Gemma 2B and Phi1-5b - general pretrained LLM models.
 
-That sounds a lot like an average to me. Or ""customary"", if you will.",6,2024-10-31 14:57:27,long,-1.0,0.6754343509674070
+That sounds a lot like an average to me. Or ""customary"", if you will.",6,2024-10-31 14:57:27,long,-1.0,-1
 15a8czu,jtk76n1,"Yeah I disagree with you on this.
 
 For me a game like Skyrim is made worse by the quest objective marker. You don’t have to navigate north west anymore on the map. 
 
-Just skip the dialogue and book it to the quest marker. I see what you’re saying but this kind of stuff is how you end up with Ubisoft games all being the same thing",1,2023-07-26 19:01:03,long,-1.0,0.827930212020874
+Just skip the dialogue and book it to the quest marker. I see what you’re saying but this kind of stuff is how you end up with Ubisoft games all being the same thing",1,2023-07-26 19:01:03,long,-1.0,-1
 1gb0d9f,ltjjd1q,"Trump follows Roy Cohn's three rules:
 
 Number one: attack, attack, attack. 
@@ -343,88 +343,88 @@ Number two: admit nothing and deny everything.
 
 Number three: no matter what happens, you claim victory and never admit defeat.
 
-Sound familiar?",30,2024-10-24 17:11:41,long,-1.0,0.5169166326522830
-155ncgd,jsvo15u,"There cpuld be a link between thinking that way and violence. I don't think there is a link between reading the book and violence, which is was OP was asking about.",1,2023-07-21 15:41:53,long,0.0,0.6643491387367250
-154dogy,jsqtg2r,">!I read *The Casual Vacancy* a year ago, so I certainly can understand how you feel.  However, for me, there are a number of factors which prevent it from falling into the category of books I wished I had never read.  The first is one you mentioned--the book is so well-written that I have to admire it.  Second--I had already read four of the six books in Rowling's *Cormoran Strike* series prior to reading TCV, so I was used to dark themes with a lot of violence, crime, and horrific acts in Rowling's adult novels.  And, third, I found some tiny shreds of humanity in TCV, such as how Sukhvinder attempted to save Robbie from drowning and how so many of the townspeople showed up for the funeral for Krystal and Robbie.  The book is overwhelmingly bleak, but there were enough bright spots for me that I don't regret reading it.!<",1,2023-07-20 16:04:24,long,1.0,0.4868008196353910
-1gb2nea,ltk82f7,"So does this apply to shit that’s on amazon or everything? Because people review bomb movies, games, and tv shows and books and comics, all the time, especially if they’re perceived as “woke.”",1,2024-10-24 19:14:01,long,-1.0,0.5026229619979860
+Sound familiar?",30,2024-10-24 17:11:41,long,-1.0,0
+155ncgd,jsvo15u,"There cpuld be a link between thinking that way and violence. I don't think there is a link between reading the book and violence, which is was OP was asking about.",1,2023-07-21 15:41:53,long,0.0,-1
+154dogy,jsqtg2r,">!I read *The Casual Vacancy* a year ago, so I certainly can understand how you feel.  However, for me, there are a number of factors which prevent it from falling into the category of books I wished I had never read.  The first is one you mentioned--the book is so well-written that I have to admire it.  Second--I had already read four of the six books in Rowling's *Cormoran Strike* series prior to reading TCV, so I was used to dark themes with a lot of violence, crime, and horrific acts in Rowling's adult novels.  And, third, I found some tiny shreds of humanity in TCV, such as how Sukhvinder attempted to save Robbie from drowning and how so many of the townspeople showed up for the funeral for Krystal and Robbie.  The book is overwhelmingly bleak, but there were enough bright spots for me that I don't regret reading it.!<",1,2023-07-20 16:04:24,long,1.0,0
+1gb2nea,ltk82f7,"So does this apply to shit that’s on amazon or everything? Because people review bomb movies, games, and tv shows and books and comics, all the time, especially if they’re perceived as “woke.”",1,2024-10-24 19:14:01,long,-1.0,-1
 1g82d7c,lsxzwaz,"Sadly very true. I'm 48 and over my years have built a reasonable VHS collection, purchased and recorded from the TV.
 
 My tapes have outlived several of the players. I've found it's actually easier to buy a DVD/VHS combi where the DVD side has died, rather than a dedicated VHS player. Standalone VHS players in good working order are now reaching silly money territory.
 
-This is what I think the proponents of physical media forget. The media is likely going to outlast the ability to play it.",1,2024-10-21 02:12:28,long,-1.0,0.5399807691574100
+This is what I think the proponents of physical media forget. The media is likely going to outlast the ability to play it.",1,2024-10-21 02:12:28,long,-1.0,0
 1g82d7c,lsxzwaz,"Sadly very true. I'm 48 and over my years have built a reasonable VHS collection, purchased and recorded from the TV.
 
 My tapes have outlived several of the players. I've found it's actually easier to buy a DVD/VHS combi where the DVD side has died, rather than a dedicated VHS player. Standalone VHS players in good working order are now reaching silly money territory.
 
-This is what I think the proponents of physical media forget. The media is likely going to outlast the ability to play it.",1,2024-10-21 02:12:28,long,-1.0,0.5399807691574100
+This is what I think the proponents of physical media forget. The media is likely going to outlast the ability to play it.",1,2024-10-21 02:12:28,long,-1.0,0
 1g9g1oh,lt6e3kj,"People dream about immortality but…. I think the human brain has a pleasurable experience timeline of 80 years. Anything beyond that could become boring or even worse.  Painful. 
 
 We don’t know what a person would feel like at 200 years old. Even assuming a youthful body. How many times can those neurons in your brain fire over and over in an endless cycle. A 200 year old might be suicidal. We just don’t know. 
 
-It may be like hunger. You eat and receive pleasure. You keep eating. At some point further eating feels uncomfortable.",1,2024-10-22 14:28:52,long,-1.0,0.6886866688728330
+It may be like hunger. You eat and receive pleasure. You keep eating. At some point further eating feels uncomfortable.",1,2024-10-22 14:28:52,long,-1.0,-1
 1gee8jt,luc5bpk,"Whelp Looks like somone will be making a new browser extension to show this data. It's going to be installed right beside UBlock, sponsor block, and dislike return for me. 
 
 
-Not surprised at all. I have in the recent year seem YouTube recommend videos to me with hundreds of views I would never see before. ",2,2024-10-29 12:17:47,long,-1.0,0.676874041557312
-15a4328,jtjvyt9,"It is. Nazis are a bunch of dorks, and they lean into this because they find that being perceived this way provides cover for how dangerous and violent they are.",1,2023-07-26 17:52:39,long,-1.0,0.9228495359420780
+Not surprised at all. I have in the recent year seem YouTube recommend videos to me with hundreds of views I would never see before. ",2,2024-10-29 12:17:47,long,-1.0,0
+15a4328,jtjvyt9,"It is. Nazis are a bunch of dorks, and they lean into this because they find that being perceived this way provides cover for how dangerous and violent they are.",1,2023-07-26 17:52:39,long,-1.0,-1
 1g9fo46,lt6givk,"Hairnets are only required in certain situations. It really depends on the length of your hair. I was a chef for a long time and I have a large red beard. Health code standards was hair longer than 6” needed a hairnet. I would tell my barber to trim my beard to 5” at the longest so I didn’t have to wear a beard net. I also have the added bonus of having a ginger beard so if one of my beard hairs fell in someone’s food it would have been **VERY** apparent who it came from. 
 
 However, if it was noted by the health inspector that means people with a hair length that required hair nets weren’t wearing them but that isn’t considered a “major” violation. The “lack of handwashing” literally could have been something as simple as one employee not washing their hands long enough and the health inspector saw and notated it. Again, not a major violation but is something that should be communicated to employees to be more aware of. 
 
 Every single restaurant you go to gets these same violations from health inspectors, I assure you. I dealt with my fair share of health inspectors. It’s one of those things where you’re ALWAYS going to be written up for something like that because the HI needs to justify their job and pretend they’re doing something when there’s not actually any violations.
 
-With all of that said, there’s plenty of reasons to not like Trump. This one is quite a silly one in my opinion and seems like a real straw grasp if we’re being honest.",2,2024-10-22 14:42:05,long,-1.0,0.7720723748207090
+With all of that said, there’s plenty of reasons to not like Trump. This one is quite a silly one in my opinion and seems like a real straw grasp if we’re being honest.",2,2024-10-22 14:42:05,long,-1.0,0
 151yih8,jsd5nyf,"I watched this movie for probably the 5th time yesterday because my wife hadn’t seen it and I like it more every time I do. It’s really up there as one of my all-time favorite movies. Makes me nostalgic for a time that happened 20+ years before I was born. Also really made the Manson family murders hit home a lot more. 
 
 
-Fucking hippies.",38,2023-07-17 20:20:49,long,1.0,0.9607110619544980
-1gdosrq,lu4jo7m,I'll never forget that… The waitress recognized the little girl and pretended that there was an issue with the credit card machine until the police got there.,3,2024-10-28 04:00:33,long,1.0,0.7385803461074830
-15efl8s,ju8zv9v,"My husband is a big fan of anime and the like. Between he and my sister I've experienced plenty. Let me say, there's a lot about Japanese culture I really like and appreciate but Manga and Anime isn't it. Manga and Anime, IMHO, is the glorification of all the worst parts of Japanese culture and history, violence, hyper sexualization of women, racism, etc. It is markedly different than say, Chinese anime/manhua which I prefer quite a lot honestly.",0,2023-07-31 20:14:19,long,-1.0,0.7467818260192870
-1ggckha,lurgp6i,"Same, it's romantic to root for the underdogs but they need less half measures. Placating Putin and caution emboldened his actions. Just as we've seen before in history. If the US tolerates intolerance we are already seeing rise in fascism and domestic terrorism here people setting fires to ballots collection sites or intimidating poll workers.",2,2024-10-31 21:31:36,long,0.0,0.764792263507843
+Fucking hippies.",38,2023-07-17 20:20:49,long,1.0,1
+1gdosrq,lu4jo7m,I'll never forget that… The waitress recognized the little girl and pretended that there was an issue with the credit card machine until the police got there.,3,2024-10-28 04:00:33,long,1.0,-1
+15efl8s,ju8zv9v,"My husband is a big fan of anime and the like. Between he and my sister I've experienced plenty. Let me say, there's a lot about Japanese culture I really like and appreciate but Manga and Anime isn't it. Manga and Anime, IMHO, is the glorification of all the worst parts of Japanese culture and history, violence, hyper sexualization of women, racism, etc. It is markedly different than say, Chinese anime/manhua which I prefer quite a lot honestly.",0,2023-07-31 20:14:19,long,-1.0,1
+1ggckha,lurgp6i,"Same, it's romantic to root for the underdogs but they need less half measures. Placating Putin and caution emboldened his actions. Just as we've seen before in history. If the US tolerates intolerance we are already seeing rise in fascism and domestic terrorism here people setting fires to ballots collection sites or intimidating poll workers.",2,2024-10-31 21:31:36,long,0.0,-1
 1gaahac,lte6899,"I realize there are really no red lines any more and we live in a post-ironic, post-absurdist world, but is not sort of maybe a majorly serious thing? Like, if you took this story and dropping it into 1996, I feel like there would be freaking out, Defcon 2, emergency meetings of the UN kind of things. 
 
-Now people are just like, 'Another step towards World War 3? Meh, throw it on the pile, wake me up when the nukes start flying'",2,2024-10-23 19:39:23,long,-1.0,0.6140516400337220
+Now people are just like, 'Another step towards World War 3? Meh, throw it on the pile, wake me up when the nukes start flying'",2,2024-10-23 19:39:23,long,-1.0,-1
 1g82d7c,lsvo7if,"Well well... these Lightning Fast VCR Repair guys are finally gonna have jobs so they can stop whining about this glorious call-back compilation of a movie!
 
-Edit: Will finally make shitloads of money out of this original VHS copy of ""Star Wars Episode 1 : The Phantom Menace"" I got from the thrift store!",173,2024-10-20 18:20:52,long,1.0,0.5136321187019350
+Edit: Will finally make shitloads of money out of this original VHS copy of ""Star Wars Episode 1 : The Phantom Menace"" I got from the thrift store!",173,2024-10-20 18:20:52,long,1.0,1
 1g82d7c,lsvo7if,"Well well... these Lightning Fast VCR Repair guys are finally gonna have jobs so they can stop whining about this glorious call-back compilation of a movie!
 
-Edit: Will finally make shitloads of money out of this original VHS copy of ""Star Wars Episode 1 : The Phantom Menace"" I got from the thrift store!",173,2024-10-20 18:20:52,long,1.0,0.5136321187019350
+Edit: Will finally make shitloads of money out of this original VHS copy of ""Star Wars Episode 1 : The Phantom Menace"" I got from the thrift store!",173,2024-10-20 18:20:52,long,1.0,1
 1gbigvw,ltn6vls,"And that is very obvious. In this economy, you can't become the richest man without becoming the biggest piece of shit. 
 
-Because good people don't exploit others.",1,2024-10-25 06:23:55,long,-1.0,0.7529868483543400
+Because good people don't exploit others.",1,2024-10-25 06:23:55,long,-1.0,-1
 1ggdzli,lur4dv8,"""A Night in the Lonesome October"" by Roger Zelazny.
 
 Your heroes are Jack the Ripper and his dog 'Snuff' with Dracula, Larry Talbot, Sherlock Holmes and many others.
 
-The story is narrated by Snuff the dog and is filled with 'easter eggs' to the brim...",1,2024-10-31 20:23:13,long,0.0,0.7333820462226870
+The story is narrated by Snuff the dog and is filled with 'easter eggs' to the brim...",1,2024-10-31 20:23:13,long,0.0,0
 1gmt5u3,lw6ueo9,"I mean newer versions of cpp address the concerns. Updating code bases to newer versions is just a pain. 
-Everything on the internet is a late game jenga tower",1,2024-11-09 02:39:02,long,-1.0,0.8225842714309690
-1gge8h1,luqp8ry,"I'm shocked, yet pleased, that the Leadership of The Economists aren't onboard with Trumps ""burn the economy down and grift what rises from the ashes"" strategy. I figured VC's would be all about that kind of BS",1,2024-10-31 19:02:52,long,1.0,0.7665928602218630
+Everything on the internet is a late game jenga tower",1,2024-11-09 02:39:02,long,-1.0,-1
+1gge8h1,luqp8ry,"I'm shocked, yet pleased, that the Leadership of The Economists aren't onboard with Trumps ""burn the economy down and grift what rises from the ashes"" strategy. I figured VC's would be all about that kind of BS",1,2024-10-31 19:02:52,long,1.0,-1
 15ehl1f,ju9d94l,"Skewers! Crushes! Devastates! Eviscerated! Destroyed! Humiliates! Admonishes!
 
 Any of this kind of language when it's just a minor dig, slightly abrasive comment or correction, or a person making a fairly good point.
 
-Maybe it made sense in this story bit every article reading this way us annoying as fuh.",1,2023-07-31 21:37:33,long,-1.0,0.8861784934997560
-1519rq7,js8uhc9,"It's working as well as it ever has! Which is that the poor are still poor and the rich keep accumulating the most money. But it's better than it was during covid or during the 2009 crash.     It's still capitalism and it's still soul crushing to be poor, but the middle class isn't as bad off as it was!",1,2023-07-16 22:09:28,long,1.0,0.7621876001358030
+Maybe it made sense in this story bit every article reading this way us annoying as fuh.",1,2023-07-31 21:37:33,long,-1.0,-1
+1519rq7,js8uhc9,"It's working as well as it ever has! Which is that the poor are still poor and the rich keep accumulating the most money. But it's better than it was during covid or during the 2009 crash.     It's still capitalism and it's still soul crushing to be poor, but the middle class isn't as bad off as it was!",1,2023-07-16 22:09:28,long,1.0,1
 1gj245a,lvbf9sy,"But somehow it’s only our fault and none of theirs. 
 
 Right?
 
-So sick of them and certain celebrities saying “protect the earth” while constantly travelling in their private jets and yachts ",1,2024-11-04 07:58:42,long,-1.0,0.8117951154708860
+So sick of them and certain celebrities saying “protect the earth” while constantly travelling in their private jets and yachts ",1,2024-11-04 07:58:42,long,-1.0,-1
 1gapew2,ltgexjr,"Rural people have less access to services and the services they do interact with tend to be lower quality. With that said, the preference would be to interact with these poor services as little as possible. Being forced to do things that aren't properly funded or staffed to provide a high quality service means you will vote to to minimize those kinds of interactions.
 
 
 E.g. 10 year licenses. Lower permitting requirements. Etc.
 
 
-The less invasive the better. If you are of the opinion that public institutions are inefficient and expensive for the quality of service they provide you will instead opt to keep your taxes so that you have more autonomy and oversight of your earnings.",10,2024-10-24 03:16:14,long,-1.0,0.60877525806427
-159czes,jtf7jhg,"Its not the worst by any means but its pretty fucking bad, especially since its not HORRIBLE so this person probably actually talks like this in person",3,2023-07-25 19:05:02,long,-1.0,0.9507088661193850
-1ge9xtu,lub14n7,"I like the exchange in Clue the movie, when Professor Plum asks, “What are you afraid of, a fate worse than death?”. Mrs. Peacock replies, “No, just death, isn’t that enough?”",7,2024-10-29 05:31:29,long,1.0,0.4930653274059300
-1ge9xtu,lub14n7,"I like the exchange in Clue the movie, when Professor Plum asks, “What are you afraid of, a fate worse than death?”. Mrs. Peacock replies, “No, just death, isn’t that enough?”",7,2024-10-29 05:31:29,long,1.0,0.4930653274059300
+The less invasive the better. If you are of the opinion that public institutions are inefficient and expensive for the quality of service they provide you will instead opt to keep your taxes so that you have more autonomy and oversight of your earnings.",10,2024-10-24 03:16:14,long,-1.0,-1
+159czes,jtf7jhg,"Its not the worst by any means but its pretty fucking bad, especially since its not HORRIBLE so this person probably actually talks like this in person",3,2023-07-25 19:05:02,long,-1.0,-1
+1ge9xtu,lub14n7,"I like the exchange in Clue the movie, when Professor Plum asks, “What are you afraid of, a fate worse than death?”. Mrs. Peacock replies, “No, just death, isn’t that enough?”",7,2024-10-29 05:31:29,long,1.0,0
+1ge9xtu,lub14n7,"I like the exchange in Clue the movie, when Professor Plum asks, “What are you afraid of, a fate worse than death?”. Mrs. Peacock replies, “No, just death, isn’t that enough?”",7,2024-10-29 05:31:29,long,1.0,0
 1gpu9xp,lwt7n9e,"In Zombies Ate My Neighbors there is strategy where letting all but one or two of the neighbors die actually makes the playthrough easier. So I sacrificed an old lady, a dog, some cheerleaders some tourists, and an infant to the ravenous zombies, pretty much just to save time.
 
-I know canonically that he never kills anyone, but it sure felt like I killed thousands of people in the pursuit of justice (and little green trophies) in the Batman Arkham games.",1,2024-11-12 21:08:12,long,0.0,0.4662756621837620
+I know canonically that he never kills anyone, but it sure felt like I killed thousands of people in the pursuit of justice (and little green trophies) in the Batman Arkham games.",1,2024-11-12 21:08:12,long,0.0,0
 15b19uk,jto7w66,"It's still a possibility. Any time a technology is developed, additional tech is developed to defeat that capability gap. It is entirely plausible that the combinations of countermeasures can result in fighters making it to a merge unharmed.
 
 There are also other scenarios that might force fighters to a merge, whether or not they attempt to kill each other along the way.
@@ -432,33 +432,33 @@ There are also other scenarios that might force fighters to a merge, whether or 
 * Fighters can run out of missiles. Depending on the mission and the acceptable risk, it may be a requirement that fighters exercise every possible option to succeed. If the threat is overwhelming and missiles expended, that might mean choosing the highest priority target and going for a guns kill. Remember [during 9/11 that unarmed fighters escorting an airliner considered the possibility they'd have to collide with the airliner's control surfaces](https://www.washingtonpost.com/local/f-16-pilot-was-ready-to-give-her-life-on-sept-11/2015/09/06/7c8cddbc-d8ce-11e0-9dca-a4d231dfde50_story.html).
 * ROE might require that a threat is assessed up close before employing.
 * Systems aren't 100% effective. Missiles can fail in a myriad of ways, sensors can drop lock. The intelligence could be inadequate such that a weapons system optimized in the wrong way. Enemy tech could receive updates between development of a weapon and deployment into the real world.
-* Aircrew make mistakes. Employing a weapon against a single target isn't just a ""select and fire"" kind of task. Between starting up and troubleshooting systems, choosing the appropriate targets, flying the right flight profiles, setting up the weapons for employment, checking to make sure all those parameters are sound, and flying profiles and managing systems through impact while maintaining battlefield awareness and simultaneously executing defenses against the threat... there are hundreds of datapoints that a pilot is referencing, real-time, just to shoot one missile at one target. Then there are further considerations for, comms, coordination of employments across multiple threats and missile conservation considerations. There are tons of opportunities for things to go wrong.",1,2023-07-27 15:07:56,long,0.0,0.8034663200378420
-151s8st,jsb8ijb,"I still have many of these and an old ibm ps2 from 1993ish.  240 mb hd, 64k of ram, external cd ROM drive, win 95 on it too. I need to see if it still works. Dont have this game tho.",1,2023-07-17 12:32:23,long,0.0,0.6606732606887820
+* Aircrew make mistakes. Employing a weapon against a single target isn't just a ""select and fire"" kind of task. Between starting up and troubleshooting systems, choosing the appropriate targets, flying the right flight profiles, setting up the weapons for employment, checking to make sure all those parameters are sound, and flying profiles and managing systems through impact while maintaining battlefield awareness and simultaneously executing defenses against the threat... there are hundreds of datapoints that a pilot is referencing, real-time, just to shoot one missile at one target. Then there are further considerations for, comms, coordination of employments across multiple threats and missile conservation considerations. There are tons of opportunities for things to go wrong.",1,2023-07-27 15:07:56,long,0.0,0
+151s8st,jsb8ijb,"I still have many of these and an old ibm ps2 from 1993ish.  240 mb hd, 64k of ram, external cd ROM drive, win 95 on it too. I need to see if it still works. Dont have this game tho.",1,2023-07-17 12:32:23,long,0.0,0
 1gmglfy,lw3t4na,"If the level of attractiveness is similar a woman will get more matches. There are more men in the apps and they aren't as picky, or perhaps cannot afford to be. This makes wllen be more picky, and we have a negative feedback loop. 
 
-Women her more matches on average. But it doesn't mean the quality is better or worse, just higher quantity.",6,2024-11-08 16:54:16,long,0.0,0.663700520992279
-153eczh,jsj950d,"Yea his logic was that he was the second lead in the biggest movie of the summer, so how could he not be indispensable? Little did he know that Iron Man was just a piece of the whole puzzle.",23,2023-07-19 01:42:31,long,0.0,0.6461465358734130
+Women her more matches on average. But it doesn't mean the quality is better or worse, just higher quantity.",6,2024-11-08 16:54:16,long,0.0,0
+153eczh,jsj950d,"Yea his logic was that he was the second lead in the biggest movie of the summer, so how could he not be indispensable? Little did he know that Iron Man was just a piece of the whole puzzle.",23,2023-07-19 01:42:31,long,0.0,0
 158vb0z,jtcfu11,"Honestly, man, anti-war movies can do as much as (or even more) pro-war movies in 'glorifying' war.
 
-It might be impossible to make a truly anti-war movie, only thing close is making a horror",29,2023-07-25 04:35:53,long,1.0,0.476132869720459
-15bv7kc,jturulc,"Seems like an easy win. I never understood that. The public won't try and throw you out unless they're unhappy. Sell your gold encrusted Lamborghini and feed some people, damn.",1,2023-07-28 20:42:28,long,-1.0,0.8037870526313780
+It might be impossible to make a truly anti-war movie, only thing close is making a horror",29,2023-07-25 04:35:53,long,1.0,-1
+15bv7kc,jturulc,"Seems like an easy win. I never understood that. The public won't try and throw you out unless they're unhappy. Sell your gold encrusted Lamborghini and feed some people, damn.",1,2023-07-28 20:42:28,long,-1.0,-1
 1glse4e,lvy11r2,"Nice demonstration of everything I just wrote above.
 
-Careful of what people are slipping past you while you are carthating over the ""right people"" getting hurt.",2,2024-11-07 19:03:32,long,1.0,0.433197408914566
-154psgn,jsq796y,"There is no pretending. The dumbasses in her congressional district elected her. Legislative immunity is there precisely to allow what might be otherwise illegal or unlawful conduct so that representatives can feel free to express their point of view and ideology without being threatened with incarceration or financial ruin.all MTG and others are doing is showing that perhaps the US Constitution didn’t contemplate completely rude, crass and trashy people getting into office.",9,2023-07-20 13:39:26,long,-1.0,0.8037366271018980
+Careful of what people are slipping past you while you are carthating over the ""right people"" getting hurt.",2,2024-11-07 19:03:32,long,1.0,0
+154psgn,jsq796y,"There is no pretending. The dumbasses in her congressional district elected her. Legislative immunity is there precisely to allow what might be otherwise illegal or unlawful conduct so that representatives can feel free to express their point of view and ideology without being threatened with incarceration or financial ruin.all MTG and others are doing is showing that perhaps the US Constitution didn’t contemplate completely rude, crass and trashy people getting into office.",9,2023-07-20 13:39:26,long,-1.0,-1
 155o99z,jsw6ees,"LOL!!!!!! 6 months before election day. This trial will take longer than 6 months.
 
 Trump has to win the election to avoid this. That will be an interesting campaing.
 
-But, the situation could not have turned out better for Trump.",1,2023-07-21 17:38:34,long,1.0,0.60347980260849
-1goc32o,lwjelsn,"I don't think it's a lack of interest, it's selling more than the PS4 pro did in the same time frame. It's just that Sony have provided enough stock for a change",2,2024-11-11 05:29:33,long,0.0,0.5417026281356810
-15croxa,jtyenwq,Are these motherfuckers really gonna try to do something stupid or does Putin think this will get Ukraine's western backers to shift their attention to Poland and let Ukraine languish?  Or is this just huff and puff for their own population's consumption?,2,2023-07-29 15:49:58,long,-1.0,0.9246039390563960
-1gmfzrp,lw4xc0i,"People always say this, but Trump ran in 2000 then considered again for 2004 well before Obama's joke. Trump had already switched his party to Republican in 2009 three years before the dinner roast and long been making the talk circuit as the head of the birther movement aiming to de-legitimize Obama before he was even president.",7,2024-11-08 20:11:42,long,0.0,0.7249388098716740
-1givm9c,lv8mzzl,"Watching this war unfold over the years has been wild. Russia can do whatever they want. Bomb civilians, torture and murder whole villages, kidnap Ukrainian children and put up for adoption, bring in north Koreans to fight for them. Yet, Ukraine has to fight with handcuffs on because...... Reasons.",88,2024-11-03 20:49:26,long,-1.0,0.9015885591506960
-1g84kqw,lsvr1hm,"There’s a 90s book that was very predictive of the moment we’re in called Amusing Ourselves to Death. It should be a high school read. It analyzes how people approach media and posits in the intro how Brave New World got it right on the future instead of 1984. Our ability to be distracted and entertained really does make us more vulnerable and we’re still in the middle of understanding all of the psychology around it. And it gets complicated as even a discussion like this is happening on a social news app, and it gets harder to have good discussions with others we live around in real life.",8,2024-10-20 18:35:00,long,0.0,0.6130552887916570
-1g84kqw,lsvr1hm,"There’s a 90s book that was very predictive of the moment we’re in called Amusing Ourselves to Death. It should be a high school read. It analyzes how people approach media and posits in the intro how Brave New World got it right on the future instead of 1984. Our ability to be distracted and entertained really does make us more vulnerable and we’re still in the middle of understanding all of the psychology around it. And it gets complicated as even a discussion like this is happening on a social news app, and it gets harder to have good discussions with others we live around in real life.",8,2024-10-20 18:35:00,long,0.0,0.6130552887916570
-1ge4hhq,lu7j0bp,"I really hope you're right. I'm in Michigan, and I feel like I've seen more Harris signs than for previous Democratic nominees, but going out into the more rural areas I still see a lot of Trump signs and it makes me pretty nervous...",2,2024-10-28 17:33:23,long,-1.0,0.4580724835395810
-1ghd0xp,lux5aqu,"The windows were so big that you could see pretty much the entire room from the outside, but there was one where a pillar next to the window blocked off a vision cone behind the door just about big enough for two standing people. You can guess which room the couples kept rented out.",420,2024-11-01 21:06:49,long,0.0,0.8140026330947880
+But, the situation could not have turned out better for Trump.",1,2023-07-21 17:38:34,long,1.0,-1
+1goc32o,lwjelsn,"I don't think it's a lack of interest, it's selling more than the PS4 pro did in the same time frame. It's just that Sony have provided enough stock for a change",2,2024-11-11 05:29:33,long,0.0,0
+15croxa,jtyenwq,Are these motherfuckers really gonna try to do something stupid or does Putin think this will get Ukraine's western backers to shift their attention to Poland and let Ukraine languish?  Or is this just huff and puff for their own population's consumption?,2,2023-07-29 15:49:58,long,-1.0,-1
+1gmfzrp,lw4xc0i,"People always say this, but Trump ran in 2000 then considered again for 2004 well before Obama's joke. Trump had already switched his party to Republican in 2009 three years before the dinner roast and long been making the talk circuit as the head of the birther movement aiming to de-legitimize Obama before he was even president.",7,2024-11-08 20:11:42,long,0.0,0
+1givm9c,lv8mzzl,"Watching this war unfold over the years has been wild. Russia can do whatever they want. Bomb civilians, torture and murder whole villages, kidnap Ukrainian children and put up for adoption, bring in north Koreans to fight for them. Yet, Ukraine has to fight with handcuffs on because...... Reasons.",88,2024-11-03 20:49:26,long,-1.0,-1
+1g84kqw,lsvr1hm,"There’s a 90s book that was very predictive of the moment we’re in called Amusing Ourselves to Death. It should be a high school read. It analyzes how people approach media and posits in the intro how Brave New World got it right on the future instead of 1984. Our ability to be distracted and entertained really does make us more vulnerable and we’re still in the middle of understanding all of the psychology around it. And it gets complicated as even a discussion like this is happening on a social news app, and it gets harder to have good discussions with others we live around in real life.",8,2024-10-20 18:35:00,long,0.0,0
+1g84kqw,lsvr1hm,"There’s a 90s book that was very predictive of the moment we’re in called Amusing Ourselves to Death. It should be a high school read. It analyzes how people approach media and posits in the intro how Brave New World got it right on the future instead of 1984. Our ability to be distracted and entertained really does make us more vulnerable and we’re still in the middle of understanding all of the psychology around it. And it gets complicated as even a discussion like this is happening on a social news app, and it gets harder to have good discussions with others we live around in real life.",8,2024-10-20 18:35:00,long,0.0,0
+1ge4hhq,lu7j0bp,"I really hope you're right. I'm in Michigan, and I feel like I've seen more Harris signs than for previous Democratic nominees, but going out into the more rural areas I still see a lot of Trump signs and it makes me pretty nervous...",2,2024-10-28 17:33:23,long,-1.0,0
+1ghd0xp,lux5aqu,"The windows were so big that you could see pretty much the entire room from the outside, but there was one where a pillar next to the window blocked off a vision cone behind the door just about big enough for two standing people. You can guess which room the couples kept rented out.",420,2024-11-01 21:06:49,long,0.0,0
 1gecnv0,lub5v9h,"Her father was an Israeli spy. She was likely Jeffrey Epsteins Mossad handler. 
 
 Ever notice how extremely pro-Israel the largest news/politics subeddits are?
@@ -467,62 +467,62 @@ https://en.wikipedia.org/wiki/Robert_Maxwell
 
 
 Crucially, when he was vetted for his cabinet post in the Trump administration, Acosta stated “I was told Epstein ‘belonged to intelligence’ and to leave it alone.”
-https://en.wikipedia.org/wiki/Alexander_Acosta",19,2024-10-29 06:21:04,long,0.0,0.567965030670166
+https://en.wikipedia.org/wiki/Alexander_Acosta",19,2024-10-29 06:21:04,long,0.0,0
 1512m64,js89sv0,"If “the economy” means the execs running the defense companies and the politicians making bank on insider info, then sure. 
 
-This is about as dumb as saying “don’t worry all those defense profits will trickle down”",0,2023-07-16 19:45:23,long,-1.0,0.6023944616317750
+This is about as dumb as saying “don’t worry all those defense profits will trickle down”",0,2023-07-16 19:45:23,long,-1.0,-1
 154hr7w,jspzzf1,"> It can’t even reference and discuss articles pre2021 like it used to.
 
-seriously ? half the questions i had for it, answers were always proceeded by the ""my information is capped at 2021"" text slug. does it not even have that reference material available to it ??",4,2023-07-20 12:44:05,long,-1.0,0.9014663696289060
+seriously ? half the questions i had for it, answers were always proceeded by the ""my information is capped at 2021"" text slug. does it not even have that reference material available to it ??",4,2023-07-20 12:44:05,long,-1.0,-1
 1ghubsg,lv21pt3,"My wife and I do this thing where we are vocal about our good health. Sounds kinda corny, but her physical therapist suggested it, and it's incredibly therapeutic. 
 
 ""Man I slept good last night!"" 
 
 ""I'm so glad I had an appetite for this dinner!""
 
-With tummy issues, back, shoulder and knee pain, we gotta recognize the days it isn't hurting. Getting older is a bitch, but it doesn't have to be :)",4,2024-11-02 18:34:28,long,1.0,0.9393510818481440
-1gfhf2s,luhraby,"""Unrealistic, socially defined beauty standards lead to mental distress."" Next up on YouDontSaySoFM; Breaking the men's world record on 100m sprint not possible by tomorrow. Well would you look at that",19,2024-10-30 09:03:59,long,-1.0,0.7966821193695070
+With tummy issues, back, shoulder and knee pain, we gotta recognize the days it isn't hurting. Getting older is a bitch, but it doesn't have to be :)",4,2024-11-02 18:34:28,long,1.0,1
+1gfhf2s,luhraby,"""Unrealistic, socially defined beauty standards lead to mental distress."" Next up on YouDontSaySoFM; Breaking the men's world record on 100m sprint not possible by tomorrow. Well would you look at that",19,2024-10-30 09:03:59,long,-1.0,-1
 15amevm,jtoepw0,"If you mean ""discovered"" by people who wrote down the discovery in their histories, rather than the original colonization by future Native Americans, or visits by the Polynesians, then the main reason would be that the big advanced societies (Korea, Japan, China) were not interested in exploring places that weren't on their maps. They already had excellent trade routes to the South and to India, where all the good trade goods came from. (Remember, Colombus was looking for a shorter route to the East, not places to colonize.)   
 
 
 China and Japan were heavily regimented societies. The rulers of Japan discouraged people leaving Japan. The Emperors of China were definitely not interested in establishing colonies they couldn't control at the other end of an ocean. They had all that land out West that they could conquer (when they had the money) where the best horses came from. 
 
-The people further North were herdsmen and hunter-gatherers who did not have the resources to send big ships into the harsh northern waters in the hopes of finding something. And the people along the Bering Strait itself were, or were in contact with, the Inuit, and knew perfectly well about Alaska, and had no interest in more frozen tundra.",1,2023-07-27 15:50:23,long,0.0,0.7535575032234190
-1gg67f2,lunhg8b,has to be r/demonolatrypractices for me. It's a bunch of people worshipping different demons and talking to different ones or putting themselves at the mercy of a demon in order to make their lives better or whatever. I can't spend more than a minute on there lol,3,2024-10-31 05:12:26,long,-1.0,0.7510881423950200
-1gad6wn,ltd7e9x,"He's been saying and doing things in headline news that would sink anybody's career weekly for almost a decade, and who knows how long before that without it being news. Nobody even expects different at this point unless they just started paying attention.",3,2024-10-23 16:41:10,long,-1.0,0.812230110168457
-152yles,jsgjb0c,Its rigged! They indict the guy that tried to steal the election for trying to steal an election! How can someone like me that never tried to steal an election ever get indicted for trying to steal it!,1,2023-07-18 14:42:46,long,-1.0,0.9111531376838680
+The people further North were herdsmen and hunter-gatherers who did not have the resources to send big ships into the harsh northern waters in the hopes of finding something. And the people along the Bering Strait itself were, or were in contact with, the Inuit, and knew perfectly well about Alaska, and had no interest in more frozen tundra.",1,2023-07-27 15:50:23,long,0.0,0
+1gg67f2,lunhg8b,has to be r/demonolatrypractices for me. It's a bunch of people worshipping different demons and talking to different ones or putting themselves at the mercy of a demon in order to make their lives better or whatever. I can't spend more than a minute on there lol,3,2024-10-31 05:12:26,long,-1.0,-1
+1gad6wn,ltd7e9x,"He's been saying and doing things in headline news that would sink anybody's career weekly for almost a decade, and who knows how long before that without it being news. Nobody even expects different at this point unless they just started paying attention.",3,2024-10-23 16:41:10,long,-1.0,-1
+152yles,jsgjb0c,Its rigged! They indict the guy that tried to steal the election for trying to steal an election! How can someone like me that never tried to steal an election ever get indicted for trying to steal it!,1,2023-07-18 14:42:46,long,-1.0,-1
 1gecyaq,lu994no,"My 7yo recently got very competitive with a friend at school over a reading contest where they log time reading in a school app.  He went from fighting me to actively asking to do more reading.
 
-I'm pretty sure his friend is over-reporting, but I'm not complaining.",1,2024-10-28 22:49:42,long,0.0,0.4953142702579500
+I'm pretty sure his friend is over-reporting, but I'm not complaining.",1,2024-10-28 22:49:42,long,0.0,0
 1gecyaq,lu994no,"My 7yo recently got very competitive with a friend at school over a reading contest where they log time reading in a school app.  He went from fighting me to actively asking to do more reading.
 
-I'm pretty sure his friend is over-reporting, but I'm not complaining.",1,2024-10-28 22:49:42,long,0.0,0.4953142702579500
+I'm pretty sure his friend is over-reporting, but I'm not complaining.",1,2024-10-28 22:49:42,long,0.0,0
 1gjj1ki,lvdkaq0,"Tiny changes can really effect (affect?) people. For example, People acting loony during a full moon is a thing.
 
- There are lots of older folks out there who are very close to having a stroke or heart attack. My dad had a heart attack after he lost it when he got cut-off in traffic. The heart attack was going to happen at some point, the stress from the traffic is just what jump started it. So losing an hour of sleep or having to wake up in the dark really can stress a person out enough to cause internal changes.",1,2024-11-04 17:15:25,long,0.0,0.7266761660575870
-1gpp4a3,lwu4wi9,"For the love of god no. This movie is a cult classic that combined horror and stoner comedy in a way that actually worked. You can’t remake lightning in a bottle, especially with the fucking Stranger Things kid",1,2024-11-13 00:13:36,long,-1.0,0.8991506695747380
-1535zne,jsi04r6,"When he hit me. I was only 16 and I warned him to never hit me again, and he never did. However, he spent 30 years going as close to that line as he could. Spitting on me, throwing things (usually food) at me, squaring up on me with fists clenched, calling me names and putting me down. I gave up a scholarship to marry him because he was in the Navy. I'm divorced now that the kids are grown, but I really made a mistake by forgiving him.",2,2023-07-18 20:25:41,long,-1.0,0.8088271021842960
-1giwmlj,lv9pxxo,I did that many years ago with a first gen mazda3 (which was not really a first gen.. they rebranded i think protégé or something like that).  I even had the crank for the windows.  Wanted those because after seeing some friend's cars having motor issues on their windows costing 1k+ to fix.. was like F that.  Traded it in 3ish years later for only 4k under what I paid for it.,11,2024-11-04 00:16:11,long,-1.0,0.6147758364677430
-1g9igpt,lt9ax23,It's definitely in pockets. The nicer neighborhoods on the southside will have 4 or 5 in a row with Harris signs. The houses on the outskirts by costco are all solidly trump train. It's definitely WAYYYY more than I ever expected to see in SW MO.,2,2024-10-22 23:41:17,long,0.0,0.5138865113258360
-1gfpt2o,lukm1j9,We don't have the equipment to replace it once we send it to Ukraine.  Biden is promising things that cannot be delivered under current manufacturing capabilities.,-8,2024-10-30 19:20:20,long,0.0,0.8027490377426150
+ There are lots of older folks out there who are very close to having a stroke or heart attack. My dad had a heart attack after he lost it when he got cut-off in traffic. The heart attack was going to happen at some point, the stress from the traffic is just what jump started it. So losing an hour of sleep or having to wake up in the dark really can stress a person out enough to cause internal changes.",1,2024-11-04 17:15:25,long,0.0,-1
+1gpp4a3,lwu4wi9,"For the love of god no. This movie is a cult classic that combined horror and stoner comedy in a way that actually worked. You can’t remake lightning in a bottle, especially with the fucking Stranger Things kid",1,2024-11-13 00:13:36,long,-1.0,-1
+1535zne,jsi04r6,"When he hit me. I was only 16 and I warned him to never hit me again, and he never did. However, he spent 30 years going as close to that line as he could. Spitting on me, throwing things (usually food) at me, squaring up on me with fists clenched, calling me names and putting me down. I gave up a scholarship to marry him because he was in the Navy. I'm divorced now that the kids are grown, but I really made a mistake by forgiving him.",2,2023-07-18 20:25:41,long,-1.0,-1
+1giwmlj,lv9pxxo,I did that many years ago with a first gen mazda3 (which was not really a first gen.. they rebranded i think protégé or something like that).  I even had the crank for the windows.  Wanted those because after seeing some friend's cars having motor issues on their windows costing 1k+ to fix.. was like F that.  Traded it in 3ish years later for only 4k under what I paid for it.,11,2024-11-04 00:16:11,long,-1.0,0
+1g9igpt,lt9ax23,It's definitely in pockets. The nicer neighborhoods on the southside will have 4 or 5 in a row with Harris signs. The houses on the outskirts by costco are all solidly trump train. It's definitely WAYYYY more than I ever expected to see in SW MO.,2,2024-10-22 23:41:17,long,0.0,0
+1gfpt2o,lukm1j9,We don't have the equipment to replace it once we send it to Ukraine.  Biden is promising things that cannot be delivered under current manufacturing capabilities.,-8,2024-10-30 19:20:20,long,0.0,-1
 1gm0r8o,lw0r9ju,"All nominee judges have to then go to the senate for their approval. Biden can’t appoint them by himself so it’s a process. 
 
-If you really need to get pissed off about something, be pissed off that the federal court system has not expanded in decades to meet the growing cases loads . So some senators made the Judges Act, a nonpartisan bill to add 66 federal judges and it passed the senate in august. But the house hasn’t voted on it yet but it will pass there easily too. So it’s likely Trump will come into office with a minimum of 66 federal judges to appoint himself.",1,2024-11-08 03:35:41,long,0.0,0.7785249352455140
+If you really need to get pissed off about something, be pissed off that the federal court system has not expanded in decades to meet the growing cases loads . So some senators made the Judges Act, a nonpartisan bill to add 66 federal judges and it passed the senate in august. But the house hasn’t voted on it yet but it will pass there easily too. So it’s likely Trump will come into office with a minimum of 66 federal judges to appoint himself.",1,2024-11-08 03:35:41,long,0.0,0
 1596q7f,jtdmceo,"Weather and climate aren't interchangeable.
 
 > Weather is what you experience when you step outside on any given day. In other words, it is the state of the atmosphere at a particular location over the short-term. Climate is the average of the weather patterns in a location over a longer period of time, usually 30 years or more.
 
-Source: https://www.noaa.gov/explainers/what-s-difference-between-climate-and-weather",31,2023-07-25 12:49:39,long,0.0,0.8829820156097410
-1gi17yp,lv204he,"Iran is so fucked, how do these sick twisted men not have compassion and love for their wives, daughters, sisters, mothers, nieces, cousins, friends? Like grow some balls you cowards, if your God treats women with such little respect find yourself a different religion or no religion at all.",9,2024-11-02 18:26:10,long,-1.0,0.944685399532318
-154lfd8,jsqlp9n,In an interview David Bowie describes going to the cinema and having a life changing experience having watched 2001. Similarly Tom Hanks describes having such an experience in [this podcast](https://www.youtube.com/watch?v=ZccT1xYBmAk&list=WL&index=5&t=146s). Everybody should watch this masterpiece.,2,2023-07-20 15:16:02,long,1.0,0.7834447622299190
-154p4qz,jsrsx87,So a Swedish person in Sweden used his right to freedom of speech as defined in the Swedish constitution to burn a Quoran and Iraqs response is to allow their populous to storm an embassy and you think thats OK?,3,2023-07-20 19:43:59,long,-1.0,0.7350462675094600
+Source: https://www.noaa.gov/explainers/what-s-difference-between-climate-and-weather",31,2023-07-25 12:49:39,long,0.0,0
+1gi17yp,lv204he,"Iran is so fucked, how do these sick twisted men not have compassion and love for their wives, daughters, sisters, mothers, nieces, cousins, friends? Like grow some balls you cowards, if your God treats women with such little respect find yourself a different religion or no religion at all.",9,2024-11-02 18:26:10,long,-1.0,-1
+154lfd8,jsqlp9n,In an interview David Bowie describes going to the cinema and having a life changing experience having watched 2001. Similarly Tom Hanks describes having such an experience in [this podcast](https://www.youtube.com/watch?v=ZccT1xYBmAk&list=WL&index=5&t=146s). Everybody should watch this masterpiece.,2,2023-07-20 15:16:02,long,1.0,1
+154p4qz,jsrsx87,So a Swedish person in Sweden used his right to freedom of speech as defined in the Swedish constitution to burn a Quoran and Iraqs response is to allow their populous to storm an embassy and you think thats OK?,3,2023-07-20 19:43:59,long,-1.0,-1
 1gpth9g,lwuw8o5,"Hell, Liz Cheney was lockstep with the rest of the Republicans until Jan 6. Then 10 of them fell out when they realized that in fact Trump would be the person he said he would.
 
-Like, good on her to try to turn over, but I can't help but to be cynical in thinking she was trying to play the long game and banking on the citizenship would be sick of Trump so that she could be on top of the post-Trump Republican party and was as surprised as we were when he won.",2,2024-11-13 02:55:10,long,0.0,0.6992068290710450
-1558zhj,jsv5s6h,"They lasted a long time on standby because they didn't do much compared to todays phones. But talk time was pretty poor. The 3310 had 2-4 hours at most (depending on signal quality). And that's where things get interesting, talk time isn't really measured anymore, but the latest S23 will be able to run for about 6 hours using all of it's power (say playing a modern ""online"" phone game that uses pretty much all the power of the phone). So whilst standby isn't that great compared to the older phones, the active time is actually better, and it can do MUCH more. Oh, and most phones will charge to ""a days worth"" (80%) in less than an hour these days.",23,2023-07-21 13:41:41,long,0.0,0.4744033515453340
-155o99z,jsvu9sf,"No, the last step is that the attorneys meet with the doj, the same as last time. That could have happened already, but if so it hasn't been noticed or reported.",1,2023-07-21 16:21:58,long,0.0,0.7861554622650150
+Like, good on her to try to turn over, but I can't help but to be cynical in thinking she was trying to play the long game and banking on the citizenship would be sick of Trump so that she could be on top of the post-Trump Republican party and was as surprised as we were when he won.",2,2024-11-13 02:55:10,long,0.0,-1
+1558zhj,jsv5s6h,"They lasted a long time on standby because they didn't do much compared to todays phones. But talk time was pretty poor. The 3310 had 2-4 hours at most (depending on signal quality). And that's where things get interesting, talk time isn't really measured anymore, but the latest S23 will be able to run for about 6 hours using all of it's power (say playing a modern ""online"" phone game that uses pretty much all the power of the phone). So whilst standby isn't that great compared to the older phones, the active time is actually better, and it can do MUCH more. Oh, and most phones will charge to ""a days worth"" (80%) in less than an hour these days.",23,2023-07-21 13:41:41,long,0.0,0
+155o99z,jsvu9sf,"No, the last step is that the attorneys meet with the doj, the same as last time. That could have happened already, but if so it hasn't been noticed or reported.",1,2023-07-21 16:21:58,long,0.0,0
 1ghrqdy,luzrkjj,"Can you explain what do you mean by weakening Israel diplomacy using Gazan children?
 
-Edit: I'm the first to call out how Hamas are using Palestinians as human shields, I just couldn't understand the comment's imply and asked. Why am I getting down voted?",8,2024-11-02 09:23:21,long,0.0,0.7026848793029790
-1gi00fk,lv23pqq,"Had the exact experience, dating a gorgeous, professional ballerina, who's feet were an absolute wreck. It wasn't a deal breaker but it was really difficult to ignore. Her being constantly exhausted (she also taught ballet) was the bigger issue for me.",23,2024-11-02 18:44:55,long,0.0,0.8462501764297490
-1gocplw,lwi323r,"The anime industry, aside from maybe a few titans like Toei or Sunrise, is also extremely liberal compared to the general population. I think the disparity is even greater than comparing Hollywood to the US population. The values portrayed (both literally by characters and in the themes/messages of works) are only really reflections of a few artists' ideals.",99,2024-11-11 00:25:11,long,0.0,0.5183823108673100
+Edit: I'm the first to call out how Hamas are using Palestinians as human shields, I just couldn't understand the comment's imply and asked. Why am I getting down voted?",8,2024-11-02 09:23:21,long,0.0,-1
+1gi00fk,lv23pqq,"Had the exact experience, dating a gorgeous, professional ballerina, who's feet were an absolute wreck. It wasn't a deal breaker but it was really difficult to ignore. Her being constantly exhausted (she also taught ballet) was the bigger issue for me.",23,2024-11-02 18:44:55,long,0.0,-1
+1gocplw,lwi323r,"The anime industry, aside from maybe a few titans like Toei or Sunrise, is also extremely liberal compared to the general population. I think the disparity is even greater than comparing Hollywood to the US population. The values portrayed (both literally by characters and in the themes/messages of works) are only really reflections of a few artists' ideals.",99,2024-11-11 00:25:11,long,0.0,0
