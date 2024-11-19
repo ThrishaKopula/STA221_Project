@@ -1,5 +1,9 @@
-# project data
+# MacOS system data
+.DS_Store
+
+# Intermediate project data
 data/top_reddit_posts.csv
+data/comment_sentiment_*_*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
